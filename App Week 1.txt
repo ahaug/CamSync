@@ -1,0 +1,14 @@
+Camera API:
+	http://maemo.org/development/documentation/manuals/4-0-x/how_to_use_camera_api/
+	http://wiki.maemo.org/Documentation/Maemo_5_Developer_Guide/Using_Multimedia_Components/Camera_API_Usage
+	http://wiki.maemo.org/Documentation/Maemo_5_Developer_Guide/Architecture/Imaging_and_Sharing
+	http://fcam.garage.maemo.org/
+
+Goals:
+	* Phone app that can run on the simulator
+	* Checked in to github repository
+	* App must:
+	  * Connect to server (localhost for now)
+	  * Take a picture by clicking a button
+	  * Upload it to the server
+	  * Vary camera properties - flash, exposure, etc.
