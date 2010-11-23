@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$_n900_8h.html" title="Including this file includes all the necessary components for the Nokia N900 implementation." alt="" coords="1904,83,2005,112"/>
+<area shape="rect" id="node11" href="$_f_cam_8h.html" title="The main include file for FCam." alt="" coords="1163,160,1229,189"/>
+<area shape="rect" id="node82" href="$_n900_2_frame_8h.html" title="The N900 Frame class." alt="" coords="772,315,841,344"/>
+<area shape="rect" id="node86" href="$include_2_f_cam_2_n900_2_platform_8h.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="1009,392,1089,421"/>
+<area shape="rect" id="node135" href="$_n900_2_flash_8h.html" title="The LED flash on the Nokia N900." alt="" coords="2135,237,2199,267"/>
+<area shape="rect" id="node144" href="$_n900_2_lens_8h.html" title="The N900 Lens." alt="" coords="2384,237,2445,267"/>
+<area shape="rect" id="node151" href="$_n900_2_sensor_8h.html" title="The N900 Image Sensor class." alt="" coords="1901,237,2008,267"/>
+<area shape="rect" id="node13" href="$_action_8h.html" title="Abstract base classes for device actions." alt="" coords="1785,315,1855,344"/>
+<area shape="rect" id="node16" href="$_async_file_8h.html" title="AsyncFile contains classes to load and save images in the background." alt="" coords="1192,237,1283,267"/>
+<area shape="rect" id="node35" href="$_device_8h.html" title="Abstract base classes for devices." alt="" coords="764,392,833,421"/>
+<area shape="rect" id="node37" href="$_time_8h.html" title="The Time class encapsulates a wall clock time." alt="" coords="763,547,824,576"/>
+<area shape="rect" id="node43" href="$_event_8h.html" title="Events representing change of device state or error conditions." alt="" coords="761,469,825,499"/>
+<area shape="rect" id="node53" href="$_image_8h.html" title="FCam Image objects." alt="" coords="1492,469,1559,499"/>
+<area shape="rect" id="node59" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="1832,392,1891,421"/>
+<area shape="rect" id="node78" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="609,392,689,421"/>
+<area shape="rect" id="node90" href="$_auto_exposure_8h.html" title="Utility algorithms for metering." alt="" coords="952,237,1067,267"/>
+<area shape="rect" id="node93" href="$_auto_focus_8h.html" title="Convenience functions for performing autofocus." alt="" coords="1456,237,1552,267"/>
+<area shape="rect" id="node97" href="$_auto_white_balance_8h.html" title="Utility algorithms for white balance." alt="" coords="736,237,877,267"/>
+<area shape="rect" id="node102" href="$_flash_8h.html" title="The FCam interface to the camera flash." alt="" coords="1576,237,1640,267"/>
+<area shape="rect" id="node108" href="$_lens_8h.html" title="An abstract base class for lenses." alt="" coords="1664,237,1725,267"/>
+<area shape="rect" id="node113" href="$_sensor_8h.html" title="A base class for Sensors." alt="" coords="1307,237,1381,267"/>
+<area shape="rect" id="node121" href="$_d_n_g_8h.html" title="Loading and saving DNG files." alt="" coords="43,315,171,344"/>
+<area shape="rect" id="node125" href="$_demosaic_8h.html" title="Converting RAW data to RGB24 by demosiacking and gamma correcting." alt="" coords="352,315,509,344"/>
+<area shape="rect" id="node128" href="$_dump_8h.html" title="Loading and saving files as raw data dumps." alt="" coords="195,315,328,344"/>
+<area shape="rect" id="node132" href="$_j_p_e_g_8h.html" title="Loading and Saving JPEGs." alt="" coords="427,237,560,267"/>
+<area shape="rect" id="node26" href="$_frame_8h.html" title="A frame is the data returned by the sensor as a result of a FCam::Shot." alt="" coords="1300,315,1369,344"/>
+<area shape="rect" id="node32" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="1373,624,1435,653"/>
+<area shape="rect" id="node74" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="964,547,1044,576"/>
+<area shape="rect" id="node47" href="$_t_s_queue_8h.html" title="A basic thread&#45;safe queue using pthread mutexes to wrap a C++ STL queue." alt="" coords="1593,547,1679,576"/>
+<area shape="rect" id="node62" href="$_histogram_8h.html" title="The Histogram and HistogramConfig classes." alt="" coords="1785,469,1876,499"/>
+<area shape="rect" id="node66" href="$_sharpness_map_8h.html" title="The SharpnessMap and SharpnessMapConfig classes." alt="" coords="1964,469,2084,499"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; ApertureAction \&gt;" alt="" coords="5,165,272,195"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_action.html" title="An abstract base class for actions." alt="" coords="88,85,189,115"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_lens.html" title="An abstract base class for lens devices, to establish a uniform interface to common lens functions..." alt="" coords="296,165,389,195"/>
+<area shape="rect" id="node8" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="292,85,393,115"/>
+<area shape="rect" id="node10" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="265,5,420,35"/>
+</map>

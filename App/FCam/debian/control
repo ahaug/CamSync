@@ -1,0 +1,19 @@
+Source: fcam
+Priority: extra
+Maintainer: Eino-Ville Talvala <talvala@stanford.edu>
+Build-Depends: debhelper (>= 5), libjpeg62-dev
+Standards-Version: 3.7.2
+Section: libs
+Homepage: http://fcam.garage.maemo.org/
+
+Package: fcam-dev
+Section: libdevel
+Architecture: any
+Depends: 
+Description: FCam Camera Control API
+XSBC-Bugtracker: https://garage.maemo.org/tracker/?group_id=1693
+ Development package for the FCam camera control API.
+ Enables full, precise control of the the N900 camera subsystem,
+ including the sensor, lens, and flash. 
+
+

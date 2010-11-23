@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_f_cam_1_1_lens.html" title="An abstract base class for lens devices, to establish a uniform interface to common lens functions..." alt="" coords="36,165,129,195"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="32,85,133,115"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="5,5,160,35"/>
+<area shape="rect" id="node8" href="$class_f_cam_1_1_t_s_queue.html" title="FCam::TSQueue\&lt; LensOrder \&gt;" alt="" coords="153,165,356,195"/>
+</map>

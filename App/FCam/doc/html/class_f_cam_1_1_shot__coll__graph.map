@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_f_cam_1_1_sharpness_map_config.html" title="The configuration of the sharpness map generator." alt="" coords="5,101,192,131"/>
+<area shape="rect" id="node4" href="$struct_f_cam_1_1_size.html" title="A class to represent sizes of two dimensional objects like images." alt="" coords="157,5,248,35"/>
+<area shape="rect" id="node10" href="$class_f_cam_1_1_image.html" title="A reference&#45;counted Image object." alt="" coords="216,101,315,131"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_histogram_config.html" title="The configuration of the histogram generator." alt="" coords="339,101,499,131"/>
+<area shape="rect" id="node8" href="$struct_f_cam_1_1_rect.html" title="A class to represent rectangles, like regions of an image." alt="" coords="373,5,464,35"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_f_cam_1_1_f2_1_1_flash.html" title="An F2 specific Flash Device for Phidgets triggered flash units." alt="" coords="5,237,125,267"/>
+<area shape="rect" id="node9" href="$class_f_cam_1_1_n900_1_1_flash.html" title="The LED flash on the Nokia N900." alt="" coords="149,237,283,267"/>
+<area shape="rect" id="node2" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="89,83,191,112"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="63,5,217,35"/>
+</map>

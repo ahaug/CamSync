@@ -15,8 +15,10 @@ TARGET = fcamera
 #-----------------------------
 # Source and header files
 
-HEADERS += Viewfinder.h ThumbnailView.h ImageItem.h OverlayWidget.h CameraThread.h ScrollArea.h CameraParameters.h SettingsTree.h AdjustmentWidget.h SplashDialog.h ExtendedSettings.h SoundPlayer.h UserDefaults.h VisualizationWidget.h PanicHandler.h LEDBlinker.h
-SOURCES += Viewfinder.cpp ThumbnailView.cpp ImageItem.cpp OverlayWidget.cpp CameraThread.cpp ScrollArea.cpp CameraParameters.cpp AdjustmentWidget.cpp SettingsTree.cpp SplashDialog.cpp ExtendedSettings.cpp SoundPlayer.cpp UserDefaults.cpp VisualizationWidget.cpp PanicHandler.cpp LEDBlinker.cpp
+HEADERS += Viewfinder.h ThumbnailView.h ImageItem.h OverlayWidget.h CameraThread.h ScrollArea.h CameraParameters.h SettingsTree.h AdjustmentWidget.h SplashDialog.h ExtendedSettings.h SoundPlayer.h UserDefaults.h VisualizationWidget.h PanicHandler.h LEDBlinker.h \
+    src/CamSync.h
+SOURCES += Viewfinder.cpp ThumbnailView.cpp ImageItem.cpp OverlayWidget.cpp CameraThread.cpp ScrollArea.cpp CameraParameters.cpp AdjustmentWidget.cpp SettingsTree.cpp SplashDialog.cpp ExtendedSettings.cpp SoundPlayer.cpp UserDefaults.cpp VisualizationWidget.cpp PanicHandler.cpp LEDBlinker.cpp \
+    src/CamSync.cpp
 SOURCES += FCamera.cpp 
 
 #-----------------------------
@@ -28,7 +30,7 @@ DEPENDPATH += .
 #-----------------------------
 # Libraries
 
-LIBS += -lpthread -lFCam -ljpeg -lpulse-simple
+LIBS += -pthread -lFCam -ljpeg -lpulse-simple
 
 #-----------------------------
 # Build destination paths
@@ -42,10 +44,9 @@ DESTDIR     = build
 # QT Configuration
 
 CONFIG += release warn_on
-QT +=
+QT += network thread
 CONFIG += qt
 QMAKE_CXXFLAGS += -mfpu=neon -mfloat-abi=softfp
-
 
 #-----------------------------
 # Packaging setup
@@ -68,7 +69,7 @@ icon64.files  = data/icons/64x64/fcamera.png
 #
 # Targets for debian source and binary package creation
 
-debian-src.commands = dpkg-buildpackage -S -r -us -uc -d -I'\.svn';
+debian-src.commands = dpkg-buildpackage -S -r -us -uc -d -I'\\.svn';
 debian-src.commands += mv ../$(QMAKE_TARGET)_*{.dsc,.tar.gz,_source.changes} .
 debian-bin.commands = dpkg-buildpackage -b -r -uc -d;
 debian-bin.commands += mv ../$(QMAKE_TARGET)_*_armel.{deb,changes} .
@@ -95,5 +96,3 @@ gobug.depends = $(TARGET)
 # Add all of the xtra QMAKE targets from above
 
 QMAKE_EXTRA_TARGETS += debian-all debian-src debian-bin compiler_clean go gobug
-
-

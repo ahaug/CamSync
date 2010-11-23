@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$_frame_8h.html" title="A frame is the data returned by the sensor as a result of a FCam::Shot." alt="" coords="773,83,843,112"/>
+<area shape="rect" id="node83" href="$_n900_2_frame_8h.html" title="The N900 Frame class." alt="" coords="1247,160,1316,189"/>
+<area shape="rect" id="node17" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="1249,392,1311,421"/>
+<area shape="rect" id="node21" href="$_device_8h.html" title="Abstract base classes for devices." alt="" coords="487,160,556,189"/>
+<area shape="rect" id="node23" href="$_time_8h.html" title="The Time class encapsulates a wall clock time." alt="" coords="503,315,564,344"/>
+<area shape="rect" id="node29" href="$_event_8h.html" title="Events representing change of device state or error conditions." alt="" coords="428,237,492,267"/>
+<area shape="rect" id="node47" href="$_image_8h.html" title="FCam Image objects." alt="" coords="764,315,831,344"/>
+<area shape="rect" id="node54" href="$_tag_value_8h.html" title="Class for the values a frame can be tagged with." alt="" coords="639,160,724,189"/>
+<area shape="rect" id="node61" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="835,237,893,267"/>
+<area shape="rect" id="node75" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="1279,315,1359,344"/>
+<area shape="rect" id="node79" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="1151,237,1231,267"/>
+<area shape="rect" id="node33" href="$_t_s_queue_8h.html" title="A basic thread&#45;safe queue using pthread mutexes to wrap a C++ STL queue." alt="" coords="217,315,303,344"/>
+<area shape="rect" id="node64" href="$_histogram_8h.html" title="The Histogram and HistogramConfig classes." alt="" coords="919,315,1009,344"/>
+<area shape="rect" id="node67" href="$_sharpness_map_8h.html" title="The SharpnessMap and SharpnessMapConfig classes." alt="" coords="1033,315,1153,344"/>
+<area shape="rect" id="node87" href="$include_2_f_cam_2_n900_2_platform_8h.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="1255,237,1335,267"/>
+</map>

@@ -1,0 +1,122 @@
+FCam Camera Control API
+==============================
+Camera 2.0 Project
+Computer Graphics Lab
+Stanford University
+
+Project home page:
+-------------------
+
+http://fcam.garage.maemo.org
+
+Description:
+------------
+
+FCam is a C++ camera control API, designed for easy, precise, and
+complete control of a camera platform.  It's based on the
+Frankencamera architecture, described in a paper available at
+http://graphics.stanford.edu/papers/fcam/.
+
+Currently, the API runs on the Nokia N900 mobile computer, and the F2
+Frankencamera, a custom test platform. There is also a dummy platform
+for testing on most desktop systems.
+
+Documentation:
+--------------
+
+FCam is documented using the Doxygen document generator system.  HTML
+documentation can be found in doc/html if it is prebuilt - otherwise,
+install doxygen, and run it in the FCam directory to build the
+documentation. 
+
+Doxygen can create inline help documentation for Qt Creator - if
+prebuilt, it can be found in doc/FCam.qch. Otherwise, modify Doxyfile
+to enable GENERATE_QHP and set QHG_LOCATION to point to
+qhelpgenerator, Qt's help file generation tool, available in various
+Qt SDKs.
+
+Examples:
+---------
+
+The examples/ tree contains several sample programs that excercise the API in various ways.
+The final example, example7, requires Qt.
+
+Building the library:
+---------
+
+The easiest way to get started with FCam is to get the Nokia Qt SDK for your OS. 
+See the getting started documentation on the project web page for details.
+
+Each platform has its own build directory, of the form
+{release,debug}.platform/ which will contain the build results,
+including the final library and test programs. Additionally, after a
+library build, the library is copied to the top FCam directory, and
+test binaries are copied to the bin/ directory.
+
+The following build targets exist:
+
+  make                - Builds the optimized static library for the current platform
+  make debug          - Builds the debug static library for the current platform
+  make test<name>     - Builds the test program tests/test<name>.cpp with the debug library
+  make test<name>-r   - Builds the test program tests/test<name>.cpp with the release library
+  make clean          - Clean up all build products, including test programs and libraries
+  make doc            - Equivalent to just typing 'doxygen', builds the documentation
+  make package        - Creates a Zip archive containing the source code, the documentation, and the last-built static library
+  make srcpackage     - Creates a Zip archive with minimal contents needed to build the library and examples
+
+Debug builds also accept the DEBUG_LEVEL command-line option to turn
+on debugging messages inside FCam. Higher numbers on DEBUG_LEVEL
+result in more and more verbosity. 
+
+       DEBUG_LEVEL = 0  - Print out errors as they occur
+       DEBUG_LEVEL = 1  - Also print out warnings as they occur
+       DEBUG_LEVEL = 2  - Also print out major API events as they occur
+       DEBUG_LEVEL = 3  - Also print out minor API events as they occur
+       DEBUG_LEVEL >=4  - Also print out low-level details about many
+                          functions inside FCam. Many lines of display per frame.
+
+So 'make DEBUG_LEVEL=1 testDNG' builds testDNG with warnings printed out as they occur.
+
+To build the examples, cd to the example directory and run make.  The
+N900 platform must be buildable to build example7 correctly.
+
+Building applications:
+---------
+
+You'll need to add <path to fcam>/include to your applications's
+include path, and then include FCam/<PLATFORM>.h where platform is
+either N900, F2, or Dummy. In QMake project files, use 'INCLUDEPATH += <path to fcam>/include'
+
+You'll also need to link the application with the FCam static
+library. Assuming the library is located in the FCam root directory,
+you'll need to add -L<path to fcam> -lFCam to g++'s link options. In
+QMake project files, use 'LIBS += -L<path to fcam> -lFCam'
+
+Reporting bugs:
+----------
+
+Report bugs and other issues to either:
+1) The bug tracker on the project website
+2) The project forums
+3) The project mailing list
+
+Platforms:
+----------
+
+Tested platforms/build systems:
+
+N900 / Nokia Qt Creator 1.0
+N900 / Maemo 5 SDK (scratchbox)
+F2   / Angstrom Qt SDK 
+x86 Dummy  / Mac OSX 10.5 and 10.6
+x86 Dummy / Ubuntu Linux
+x86 Dummy / Cygwin
+
+Legal:
+-------
+
+Copyright (c) 2010, Stanford University
+
+This software package is licensed under the BSD License.
+
+See license.txt for detailed licensing information.

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_f_cam_1_1_dummy_1_1_shot.html" title="Dummy::Shot collects parameters for simulating a frame capture with the Dummy sensor." alt="" coords="5,83,149,112"/>
+<area shape="rect" id="node5" href="$class_f_cam_1_1_f2_1_1_shot.html" title="F2::Shot collects parameters for capturing a frame with support for all the parameters of the F2 Fran..." alt="" coords="173,83,288,112"/>
+</map>

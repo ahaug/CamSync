@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="749,315,811,344"/>
+<area shape="rect" id="node11" href="$_device_8h.html" title="Abstract base classes for devices." alt="" coords="387,83,456,112"/>
+<area shape="rect" id="node13" href="$_time_8h.html" title="The Time class encapsulates a wall clock time." alt="" coords="433,237,495,267"/>
+<area shape="rect" id="node20" href="$_event_8h.html" title="Events representing change of device state or error conditions." alt="" coords="325,160,389,189"/>
+<area shape="rect" id="node40" href="$_image_8h.html" title="FCam Image objects." alt="" coords="903,237,969,267"/>
+<area shape="rect" id="node47" href="$_tag_value_8h.html" title="Class for the values a frame can be tagged with." alt="" coords="531,83,616,112"/>
+<area shape="rect" id="node54" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="977,160,1036,189"/>
+<area shape="rect" id="node68" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="697,237,777,267"/>
+<area shape="rect" id="node72" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="593,237,673,267"/>
+<area shape="rect" id="node24" href="$_t_s_queue_8h.html" title="A basic thread&#45;safe queue using pthread mutexes to wrap a C++ STL queue." alt="" coords="273,237,359,267"/>
+<area shape="rect" id="node57" href="$_histogram_8h.html" title="The Histogram and HistogramConfig classes." alt="" coords="1252,237,1343,267"/>
+<area shape="rect" id="node60" href="$_sharpness_map_8h.html" title="The SharpnessMap and SharpnessMapConfig classes." alt="" coords="1108,237,1228,267"/>
+</map>

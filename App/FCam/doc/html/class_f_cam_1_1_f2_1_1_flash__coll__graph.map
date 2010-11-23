@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_f_cam_1_1_flash.html" title="An abstract base class for camera flashes." alt="" coords="20,219,116,248"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="32,85,133,115"/>
+<area shape="rect" id="node10" href="$class_f_cam_1_1_f2_1_1_phidget_device.html" title="A manager and base class for Phidgets based devices." alt="" coords="104,165,275,195"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="5,5,160,35"/>
+<area shape="rect" id="node8" href="$class_f_cam_1_1_f2_1_1_phidget_flash.html" title="A helper class for the F2::Flash class that handles Phidget communications." alt="" coords="105,272,268,301"/>
+</map>

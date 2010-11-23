@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$_sensor_8h.html" title="A base class for Sensors." alt="" coords="708,83,793,112"/>
+<area shape="rect" id="node40" href="$_n900_2_frame_8h.html" title="The N900 Frame class." alt="" coords="796,160,865,189"/>
+<area shape="rect" id="node54" href="$_dummy_2_frame_8h_source.html" title="Frame.h" alt="" coords="584,160,653,189"/>
+<area shape="rect" id="node80" href="$include_2_f_cam_2_dummy_2_platform_8h.html" title="Static platform data about the Dummy platform and its pretend image sensor." alt="" coords="1129,237,1297,267"/>
+<area shape="rect" id="node7" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="529,392,591,421"/>
+<area shape="rect" id="node13" href="$_device_8h.html" title="Abstract base classes for devices." alt="" coords="947,160,1016,189"/>
+<area shape="rect" id="node15" href="$_time_8h.html" title="The Time class encapsulates a wall clock time." alt="" coords="1137,315,1199,344"/>
+<area shape="rect" id="node22" href="$_event_8h.html" title="Events representing change of device state or error conditions." alt="" coords="991,237,1055,267"/>
+<area shape="rect" id="node26" href="$_t_s_queue_8h.html" title="A basic thread&#45;safe queue using pthread mutexes to wrap a C++ STL queue." alt="" coords="729,315,815,344"/>
+<area shape="rect" id="node44" href="$include_2_f_cam_2_n900_2_platform_8h.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="887,237,967,267"/>
+<area shape="rect" id="node50" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="839,315,919,344"/>
+<area shape="rect" id="node46" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="943,315,1063,344"/>
+<area shape="rect" id="node57" href="$_dummy_2_shot_8h.html" title="Dummy::Shot collects extra parameters for capturing a Dummy::Frame with a Dummy::Sensor." alt="" coords="589,237,648,267"/>
+<area shape="rect" id="node61" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="375,237,433,267"/>
+<area shape="rect" id="node64" href="$_histogram_8h.html" title="The Histogram and HistogramConfig classes." alt="" coords="212,315,303,344"/>
+<area shape="rect" id="node67" href="$_sharpness_map_8h.html" title="The SharpnessMap and SharpnessMapConfig classes." alt="" coords="68,315,188,344"/>
+<area shape="rect" id="node70" href="$_image_8h.html" title="FCam Image objects." alt="" coords="441,315,508,344"/>
+</map>

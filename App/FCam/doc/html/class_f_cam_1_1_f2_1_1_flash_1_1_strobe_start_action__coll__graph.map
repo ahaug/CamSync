@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; StrobeStartAction \&gt;" alt="" coords="5,368,288,397"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_action.html" title="An abstract base class for actions." alt="" coords="96,272,197,301"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_f2_1_1_flash.html" title="An F2 specific Flash Device for Phidgets triggered flash units." alt="" coords="312,368,432,397"/>
+<area shape="rect" id="node8" href="$class_f_cam_1_1_flash.html" title="An abstract base class for camera flashes." alt="" coords="283,219,379,248"/>
+<area shape="rect" id="node10" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="295,85,396,115"/>
+<area shape="rect" id="node16" href="$class_f_cam_1_1_f2_1_1_phidget_device.html" title="A manager and base class for Phidgets based devices." alt="" coords="367,165,537,195"/>
+<area shape="rect" id="node12" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="268,5,423,35"/>
+<area shape="rect" id="node14" href="$class_f_cam_1_1_f2_1_1_phidget_flash.html" title="A helper class for the F2::Flash class that handles Phidget communications." alt="" coords="368,272,531,301"/>
+</map>

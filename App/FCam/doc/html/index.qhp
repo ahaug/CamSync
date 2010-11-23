@@ -1,0 +1,1537 @@
+<QtHelpProject version="1.0">
+  <namespace>edu.stanford.fcam</namespace>
+  <virtualFolder>doc</virtualFolder>
+  <filterSection>
+    <filterAttribute>doxygen</filterAttribute>
+    <toc>
+      <section title="FCam" ref="index.html">
+        <section title="FCam: An API for controlling computational cameras." ref="main.html" />
+        <section title="Examples" ref="_examples.html" />
+        <section title="Todo List" ref="todo.html" />
+        <section title="Class List" ref="annotated.html">
+          <section title="FCam::_DNGFrame" ref="class_f_cam_1_1___d_n_g_frame.html" />
+          <section title="FCam::_Frame" ref="struct_f_cam_1_1___frame.html" />
+          <section title="FCam::Action" ref="class_f_cam_1_1_action.html" />
+          <section title="FCam::AsyncFileWriter" ref="class_f_cam_1_1_async_file_writer.html" />
+          <section title="FCam::AutoFocus" ref="class_f_cam_1_1_auto_focus.html" />
+          <section title="FCam::CopyableAction&lt; Derived &gt;" ref="class_f_cam_1_1_copyable_action.html" />
+          <section title="FCam::Device" ref="class_f_cam_1_1_device.html" />
+          <section title="FCam::DNGFrame" ref="class_f_cam_1_1_d_n_g_frame.html" />
+          <section title="FCam::Dummy::Platform" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+          <section title="FCam::Dummy::Sensor" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+          <section title="FCam::Dummy::Shot" ref="class_f_cam_1_1_dummy_1_1_shot.html" />
+          <section title="FCam::Event" ref="class_f_cam_1_1_event.html" />
+          <section title="FCam::EventGenerator" ref="class_f_cam_1_1_event_generator.html" />
+          <section title="FCam::F2::_Frame" ref="struct_f_cam_1_1_f2_1_1___frame.html" />
+          <section title="FCam::F2::Flash" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+          <section title="FCam::F2::Flash::StrobeStartAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" />
+          <section title="FCam::F2::Flash::StrobeStopAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" />
+          <section title="FCam::F2::Frame" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+          <section title="FCam::F2::Lens" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+          <section title="FCam::F2::PhidgetDevice" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+          <section title="FCam::F2::PhidgetFlash" ref="class_f_cam_1_1_f2_1_1_phidget_flash.html" />
+          <section title="FCam::F2::Sensor" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+          <section title="FCam::F2::Shot" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+          <section title="FCam::F2::ShutterButton" ref="class_f_cam_1_1_f2_1_1_shutter_button.html" />
+          <section title="FCam::Flash" ref="class_f_cam_1_1_flash.html" />
+          <section title="FCam::Flash::FireAction" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+          <section title="FCam::Flash::Tags" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+          <section title="FCam::Frame" ref="class_f_cam_1_1_frame.html" />
+          <section title="FCam::Histogram" ref="class_f_cam_1_1_histogram.html" />
+          <section title="FCam::HistogramConfig" ref="class_f_cam_1_1_histogram_config.html" />
+          <section title="FCam::Image" ref="class_f_cam_1_1_image.html" />
+          <section title="FCam::Lens" ref="class_f_cam_1_1_lens.html" />
+          <section title="FCam::Lens::ApertureAction" ref="class_f_cam_1_1_lens_1_1_aperture_action.html" />
+          <section title="FCam::Lens::FocusAction" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+          <section title="FCam::Lens::Tags" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+          <section title="FCam::Lens::ZoomAction" ref="class_f_cam_1_1_lens_1_1_zoom_action.html" />
+          <section title="FCam::N900::Flash" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+          <section title="FCam::N900::Frame" ref="class_f_cam_1_1_n900_1_1_frame.html" />
+          <section title="FCam::N900::Lens" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+          <section title="FCam::N900::Platform" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+          <section title="FCam::N900::Sensor" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+          <section title="FCam::Platform" ref="class_f_cam_1_1_platform.html" />
+          <section title="FCam::Rect" ref="struct_f_cam_1_1_rect.html" />
+          <section title="FCam::Sensor" ref="class_f_cam_1_1_sensor.html" />
+          <section title="FCam::SharpnessMap" ref="class_f_cam_1_1_sharpness_map.html" />
+          <section title="FCam::SharpnessMapConfig" ref="class_f_cam_1_1_sharpness_map_config.html" />
+          <section title="FCam::Shot" ref="class_f_cam_1_1_shot.html" />
+          <section title="FCam::Size" ref="struct_f_cam_1_1_size.html" />
+          <section title="FCam::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+          <section title="FCam::Time" ref="class_f_cam_1_1_time.html" />
+          <section title="FCam::TSQueue&lt; T &gt;" ref="class_f_cam_1_1_t_s_queue.html" />
+        </section>
+        <section title="Class Hierarchy" ref="hierarchy.html">
+          <section title="FCam::Action" ref="class_f_cam_1_1_action.html">
+            <section title="FCam::CopyableAction&lt; ApertureAction &gt;" ref="class_f_cam_1_1_copyable_action.html">
+              <section title="FCam::Lens::ApertureAction" ref="class_f_cam_1_1_lens_1_1_aperture_action.html" />
+            </section>
+            <section title="FCam::CopyableAction&lt; FireAction &gt;" ref="class_f_cam_1_1_copyable_action.html">
+              <section title="FCam::Flash::FireAction" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+            </section>
+            <section title="FCam::CopyableAction&lt; FocusAction &gt;" ref="class_f_cam_1_1_copyable_action.html">
+              <section title="FCam::Lens::FocusAction" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+            </section>
+            <section title="FCam::CopyableAction&lt; SoundAction &gt;" ref="class_f_cam_1_1_copyable_action.html" />
+            <section title="FCam::CopyableAction&lt; StrobeStartAction &gt;" ref="class_f_cam_1_1_copyable_action.html">
+              <section title="FCam::F2::Flash::StrobeStartAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" />
+            </section>
+            <section title="FCam::CopyableAction&lt; StrobeStopAction &gt;" ref="class_f_cam_1_1_copyable_action.html">
+              <section title="FCam::F2::Flash::StrobeStopAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" />
+            </section>
+            <section title="FCam::CopyableAction&lt; ZoomAction &gt;" ref="class_f_cam_1_1_copyable_action.html">
+              <section title="FCam::Lens::ZoomAction" ref="class_f_cam_1_1_lens_1_1_zoom_action.html" />
+            </section>
+            <section title="FCam::CopyableAction&lt; Derived &gt;" ref="class_f_cam_1_1_copyable_action.html" />
+          </section>
+          <section title="FCam::AsyncFileWriter" ref="class_f_cam_1_1_async_file_writer.html" />
+          <section title="FCam::AutoFocus" ref="class_f_cam_1_1_auto_focus.html" />
+          <section title="FCam::Event" ref="class_f_cam_1_1_event.html" />
+          <section title="FCam::EventGenerator" ref="class_f_cam_1_1_event_generator.html">
+            <section title="FCam::_Frame" ref="struct_f_cam_1_1___frame.html">
+              <section title="FCam::_DNGFrame" ref="class_f_cam_1_1___d_n_g_frame.html" />
+              <section title="FCam::F2::_Frame" ref="struct_f_cam_1_1_f2_1_1___frame.html" />
+            </section>
+            <section title="FCam::Device" ref="class_f_cam_1_1_device.html">
+              <section title="FCam::F2::PhidgetDevice" ref="class_f_cam_1_1_f2_1_1_phidget_device.html">
+                <section title="FCam::F2::PhidgetFlash" ref="class_f_cam_1_1_f2_1_1_phidget_flash.html" />
+              </section>
+              <section title="FCam::Flash" ref="class_f_cam_1_1_flash.html">
+                <section title="FCam::F2::Flash" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+                <section title="FCam::N900::Flash" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+              </section>
+              <section title="FCam::Lens" ref="class_f_cam_1_1_lens.html">
+                <section title="FCam::F2::Lens" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+                <section title="FCam::N900::Lens" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+              </section>
+              <section title="FCam::Sensor" ref="class_f_cam_1_1_sensor.html">
+                <section title="FCam::Dummy::Sensor" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+                <section title="FCam::F2::Sensor" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+                <section title="FCam::N900::Sensor" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+              </section>
+            </section>
+            <section title="FCam::F2::ShutterButton" ref="class_f_cam_1_1_f2_1_1_shutter_button.html" />
+          </section>
+          <section title="FCam::Flash::Tags" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+          <section title="FCam::Frame" ref="class_f_cam_1_1_frame.html">
+            <section title="FCam::DNGFrame" ref="class_f_cam_1_1_d_n_g_frame.html" />
+            <section title="FCam::F2::Frame" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+            <section title="FCam::N900::Frame" ref="class_f_cam_1_1_n900_1_1_frame.html" />
+          </section>
+          <section title="FCam::Histogram" ref="class_f_cam_1_1_histogram.html" />
+          <section title="FCam::HistogramConfig" ref="class_f_cam_1_1_histogram_config.html" />
+          <section title="FCam::Image" ref="class_f_cam_1_1_image.html" />
+          <section title="FCam::Lens::Tags" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+          <section title="FCam::Platform" ref="class_f_cam_1_1_platform.html">
+            <section title="FCam::_DNGFrame" ref="class_f_cam_1_1___d_n_g_frame.html" />
+            <section title="FCam::Dummy::Platform" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+            <section title="FCam::N900::Platform" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+          </section>
+          <section title="FCam::Rect" ref="struct_f_cam_1_1_rect.html" />
+          <section title="FCam::SharpnessMap" ref="class_f_cam_1_1_sharpness_map.html" />
+          <section title="FCam::SharpnessMapConfig" ref="class_f_cam_1_1_sharpness_map_config.html" />
+          <section title="FCam::Shot" ref="class_f_cam_1_1_shot.html">
+            <section title="FCam::Dummy::Shot" ref="class_f_cam_1_1_dummy_1_1_shot.html" />
+            <section title="FCam::F2::Shot" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+          </section>
+          <section title="FCam::Size" ref="struct_f_cam_1_1_size.html" />
+          <section title="FCam::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+          <section title="FCam::Time" ref="class_f_cam_1_1_time.html" />
+          <section title="FCam::TSQueue&lt; T &gt;" ref="class_f_cam_1_1_t_s_queue.html" />
+        </section>
+        <section title="Class Members" ref="functions.html" />
+        <section title="Graphical Class Hierarchy" ref="inherits.html" />
+        <section title="Namespace List" ref="namespaces.html">
+          <section title="FCam" ref="namespace_f_cam.html" />
+          <section title="FCam::Dummy" ref="namespace_f_cam_1_1_dummy.html" />
+          <section title="FCam::F2" ref="namespace_f_cam_1_1_f2.html" />
+          <section title="FCam::F2::ColBin" ref="namespace_f_cam_1_1_f2_1_1_col_bin.html" />
+          <section title="FCam::F2::ColSkip" ref="namespace_f_cam_1_1_f2_1_1_col_skip.html" />
+          <section title="FCam::F2::RowBin" ref="namespace_f_cam_1_1_f2_1_1_row_bin.html" />
+          <section title="FCam::F2::RowSkip" ref="namespace_f_cam_1_1_f2_1_1_row_skip.html" />
+          <section title="FCam::N900" ref="namespace_f_cam_1_1_n900.html" />
+        </section>
+        <section title="Namespace Members" ref="namespacemembers.html" />
+        <section title="File List" ref="files.html">
+          <section title="examples/example1/example1.cpp" ref="example1_8cpp.html" />
+          <section title="examples/example2/example2.cpp" ref="example2_8cpp.html" />
+          <section title="examples/example3/example3.cpp" ref="example3_8cpp.html" />
+          <section title="examples/example4/example4.cpp" ref="example4_8cpp.html" />
+          <section title="examples/example5/example5.cpp" ref="example5_8cpp.html" />
+          <section title="examples/example6/example6.cpp" ref="example6_8cpp.html" />
+          <section title="examples/example6/SoundPlayer.cpp" ref="_sound_player_8cpp.html" />
+          <section title="examples/example6/SoundPlayer.h" ref="_sound_player_8h.html" />
+          <section title="examples/example7/CameraThread.cpp" ref="_camera_thread_8cpp.html" />
+          <section title="examples/example7/CameraThread.h" ref="_camera_thread_8h.html" />
+          <section title="examples/example7/example7.cpp" ref="example7_8cpp.html" />
+          <section title="examples/example7/omapfb.h" />
+          <section title="examples/example7/OverlayWidget.cpp" />
+          <section title="examples/example7/OverlayWidget.h" />
+          <section title="include/FCam/Action.h" ref="_action_8h.html" />
+          <section title="include/FCam/AsyncFile.h" ref="_async_file_8h.html" />
+          <section title="include/FCam/AutoExposure.h" ref="_auto_exposure_8h.html" />
+          <section title="include/FCam/AutoFocus.h" ref="_auto_focus_8h.html" />
+          <section title="include/FCam/AutoWhiteBalance.h" ref="_auto_white_balance_8h.html" />
+          <section title="include/FCam/Base.h" ref="_base_8h.html" />
+          <section title="include/FCam/CircularBuffer.h" />
+          <section title="include/FCam/Device.h" ref="_device_8h.html" />
+          <section title="include/FCam/Dummy.h" ref="_dummy_8h.html" />
+          <section title="include/FCam/Event.h" ref="_event_8h.html" />
+          <section title="include/FCam/F2.h" ref="_f2_8h.html" />
+          <section title="include/FCam/FCam.h" ref="_f_cam_8h.html" />
+          <section title="include/FCam/Flash.h" ref="_flash_8h.html" />
+          <section title="include/FCam/Frame.h" ref="_frame_8h.html" />
+          <section title="include/FCam/Histogram.h" ref="_histogram_8h.html" />
+          <section title="include/FCam/Image.h" ref="_image_8h.html" />
+          <section title="include/FCam/Lens.h" ref="_lens_8h.html" />
+          <section title="include/FCam/N900.h" ref="_n900_8h.html" />
+          <section title="include/FCam/Platform.h" ref="include_2_f_cam_2_platform_8h.html" />
+          <section title="include/FCam/Sensor.h" ref="_sensor_8h.html" />
+          <section title="include/FCam/SharpnessMap.h" ref="_sharpness_map_8h.html" />
+          <section title="include/FCam/Shot.h" ref="_shot_8h.html" />
+          <section title="include/FCam/TagValue.h" ref="_tag_value_8h.html" />
+          <section title="include/FCam/Time.h" ref="_time_8h.html" />
+          <section title="include/FCam/TSQueue.h" ref="_t_s_queue_8h.html" />
+          <section title="include/FCam/Dummy/Frame.h" />
+          <section title="include/FCam/Dummy/Platform.h" ref="include_2_f_cam_2_dummy_2_platform_8h.html" />
+          <section title="include/FCam/Dummy/Sensor.h" ref="_dummy_2_sensor_8h.html" />
+          <section title="include/FCam/Dummy/Shot.h" ref="_dummy_2_shot_8h.html" />
+          <section title="include/FCam/F2/EF232LensDatabase.h" />
+          <section title="include/FCam/F2/Flash.h" ref="_f2_2_flash_8h.html" />
+          <section title="include/FCam/F2/Frame.h" ref="_f2_2_frame_8h.html" />
+          <section title="include/FCam/F2/Lens.h" ref="_f2_2_lens_8h.html" />
+          <section title="include/FCam/F2/Sensor.h" ref="_f2_2_sensor_8h.html" />
+          <section title="include/FCam/F2/Shot.h" ref="_f2_2_shot_8h.html" />
+          <section title="include/FCam/F2/ShutterButton.h" ref="_shutter_button_8h.html" />
+          <section title="include/FCam/N900/Flash.h" ref="_n900_2_flash_8h.html" />
+          <section title="include/FCam/N900/Frame.h" ref="_n900_2_frame_8h.html" />
+          <section title="include/FCam/N900/Lens.h" ref="_n900_2_lens_8h.html" />
+          <section title="include/FCam/N900/Platform.h" ref="include_2_f_cam_2_n900_2_platform_8h.html" />
+          <section title="include/FCam/N900/Sensor.h" ref="_n900_2_sensor_8h.html" />
+          <section title="include/FCam/processing/Color.h" ref="_color_8h.html" />
+          <section title="include/FCam/processing/Demosaic.h" ref="_demosaic_8h.html" />
+          <section title="include/FCam/processing/DNG.h" ref="_d_n_g_8h.html" />
+          <section title="include/FCam/processing/Dump.h" ref="_dump_8h.html" />
+          <section title="include/FCam/processing/JPEG.h" ref="_j_p_e_g_8h.html" />
+          <section title="src/Action.cpp" />
+          <section title="src/AsyncFile.cpp" />
+          <section title="src/AutoExposure.cpp" />
+          <section title="src/AutoFocus.cpp" />
+          <section title="src/AutoWhiteBalance.cpp" />
+          <section title="src/Base.cpp" />
+          <section title="src/Device.cpp" />
+          <section title="src/Event.cpp" />
+          <section title="src/Flash.cpp" />
+          <section title="src/Frame.cpp" />
+          <section title="src/Image.cpp" />
+          <section title="src/Lens.cpp" />
+          <section title="src/Sensor.cpp" />
+          <section title="src/Shot.cpp" />
+          <section title="src/TagValue.cpp" />
+          <section title="src/Time.cpp" />
+          <section title="src/Dummy/Daemon.cpp" />
+          <section title="src/Dummy/Daemon.h" />
+          <section title="src/Dummy/Frame.cpp" />
+          <section title="src/Dummy/Platform.cpp" />
+          <section title="src/Dummy/Sensor.cpp" />
+          <section title="src/Dummy/Shot.cpp" />
+          <section title="src/F2/Daemon.cpp" />
+          <section title="src/F2/Daemon.h" />
+          <section title="src/F2/EF232LensDatabase.cpp" />
+          <section title="src/F2/Flash.cpp" />
+          <section title="src/F2/Frame.cpp" />
+          <section title="src/F2/Lens.cpp" />
+          <section title="src/F2/PhidgetDevice.cpp" />
+          <section title="src/F2/PhidgetDevice.h" ref="_phidget_device_8h.html" />
+          <section title="src/F2/Platform.cpp" />
+          <section title="src/F2/Platform.h" />
+          <section title="src/F2/Sensor.cpp" />
+          <section title="src/F2/Shot.cpp" />
+          <section title="src/F2/ShutterButton.cpp" />
+          <section title="src/F2/V4L2Sensor.cpp" />
+          <section title="src/F2/V4L2Sensor.h" />
+          <section title="src/N900/ButtonListener.cpp" />
+          <section title="src/N900/ButtonListener.h" />
+          <section title="src/N900/Daemon.cpp" />
+          <section title="src/N900/Daemon.h" />
+          <section title="src/N900/Flash.cpp" />
+          <section title="src/N900/Frame.cpp" />
+          <section title="src/N900/Lens.cpp" />
+          <section title="src/N900/Platform.cpp" />
+          <section title="src/N900/Sensor.cpp" />
+          <section title="src/N900/V4L2Sensor.cpp" />
+          <section title="src/N900/V4L2Sensor.h" />
+          <section title="src/processing/Color.cpp" />
+          <section title="src/processing/Demosaic.cpp" />
+          <section title="src/processing/Demosaic_ARM.cpp" />
+          <section title="src/processing/Demosaic_ARM.h" />
+          <section title="src/processing/DNG.cpp" />
+          <section title="src/processing/Dump.cpp" />
+          <section title="src/processing/JPEG.cpp" />
+          <section title="src/processing/TIFF.cpp" />
+          <section title="src/processing/TIFF.h" />
+          <section title="src/processing/TIFFTags.cpp" />
+          <section title="src/processing/TIFFTags.h" />
+          <section title="tests/testCapabilities.cpp" />
+          <section title="tests/testClassStructure.cpp" />
+          <section title="tests/testDemosaic.cpp" />
+          <section title="tests/testDNG.cpp" />
+          <section title="tests/testF2.cpp" />
+          <section title="tests/testF2Lens.cpp" />
+          <section title="tests/testFlashLatency.cpp" />
+          <section title="tests/testImage.cpp" />
+          <section title="tests/testJPEG.cpp" />
+          <section title="tests/testRestart.cpp" />
+          <section title="tests/testStream.cpp" />
+          <section title="tests/testTagValue.cpp" />
+          <section title="tests/testTSQueue.cpp" />
+          <section title="utils/fcamDngUtil.cpp" ref="fcam_dng_util_8cpp.html" />
+          <section title="utils/fcamVignette.cpp" ref="fcam_vignette_8cpp.html" />
+          <section title="utils/LinearAlgebra.h" />
+        </section>
+        <section title="File Members" ref="globals.html" />
+      </section>
+    </toc>
+    <keywords>
+      <keyword name="autoExpose" id="AutoExposure.h::autoExpose" ref="_auto_exposure_8h.html" />
+      <keyword name="autoWhiteBalance" id="AutoWhiteBalance.h::autoWhiteBalance" ref="_auto_white_balance_8h.html" />
+      <keyword name="fcamPanic" id="Base.h::fcamPanic" ref="_base_8h.html" />
+      <keyword name="bytesPerPixel" id="Base.h::bytesPerPixel" ref="_base_8h.html" />
+      <keyword name="FCAM_FRAME_DEBUG" id="Frame.h::FCAM_FRAME_DEBUG" ref="_frame_8h.html" />
+      <keyword name="TagMap" id="Frame.h::TagMap" ref="_frame_8h.html" />
+      <keyword name="getNextEvent" id="Event.h::getNextEvent" ref="_event_8h.html" />
+      <keyword name="getNextEvent" id="Event.h::getNextEvent" ref="_event_8h.html" />
+      <keyword name="getNextEvent" id="Event.h::getNextEvent" ref="_event_8h.html" />
+      <keyword name="getNextEvent" id="Event.h::getNextEvent" ref="_event_8h.html" />
+      <keyword name="getNextEvent" id="Event.h::getNextEvent" ref="_event_8h.html" />
+      <keyword name="getNextEvent" id="Event.h::getNextEvent" ref="_event_8h.html" />
+      <keyword name="postEvent" id="Event.h::postEvent" ref="_event_8h.html" />
+      <keyword name="postEvent" id="Event.h::postEvent" ref="_event_8h.html" />
+      <keyword name="error" id="Event.h::error" ref="_event_8h.html" />
+      <keyword name="warning" id="Event.h::warning" ref="_event_8h.html" />
+      <keyword name="error" id="Event.h::error" ref="_event_8h.html" />
+      <keyword name="warning" id="Event.h::warning" ref="_event_8h.html" />
+      <keyword name="_eventQueue" id="Event.h::_eventQueue" ref="_event_8h.html" />
+      <keyword name="FCAM_IMAGE_DEBUG" id="Image.h::FCAM_IMAGE_DEBUG" ref="_image_8h.html" />
+      <keyword name="xyToCCT" id="Color.h::xyToCCT" ref="_color_8h.html" />
+      <keyword name="kelvinToXY" id="Color.h::kelvinToXY" ref="_color_8h.html" />
+      <keyword name="invert3x3" id="Color.h::invert3x3" ref="_color_8h.html" />
+      <keyword name="colorMatrixInterpolate" id="Color.h::colorMatrixInterpolate" ref="_color_8h.html" />
+      <keyword name="RGBtoXYZ" id="Color.h::RGBtoXYZ" ref="_color_8h.html" />
+      <keyword name="demosaic" id="Demosaic.h::demosaic" ref="_demosaic_8h.html" />
+      <keyword name="makeThumbnail" id="Demosaic.h::makeThumbnail" ref="_demosaic_8h.html" />
+      <keyword name="saveDNG" id="DNG.h::saveDNG" ref="_d_n_g_8h.html" />
+      <keyword name="loadDNG" id="DNG.h::loadDNG" ref="_d_n_g_8h.html" />
+      <keyword name="saveDump" id="Dump.h::saveDump" ref="_dump_8h.html" />
+      <keyword name="loadDump" id="Dump.h::loadDump" ref="_dump_8h.html" />
+      <keyword name="saveJPEG" id="JPEG.h::saveJPEG" ref="_j_p_e_g_8h.html" />
+      <keyword name="saveJPEG" id="JPEG.h::saveJPEG" ref="_j_p_e_g_8h.html" />
+      <keyword name="Examples" id="Examples" ref="_examples.html" />
+      <keyword name="Todo List" id="Todo List" ref="todo.html" />
+      <keyword name="FCam" id="FCam" ref="namespace_f_cam.html" />
+      <keyword name="TagMap" id="FCam::TagMap" ref="namespace_f_cam.html" />
+      <keyword name="autoExpose" id="FCam::autoExpose" ref="namespace_f_cam.html" />
+      <keyword name="autoWhiteBalance" id="FCam::autoWhiteBalance" ref="namespace_f_cam.html" />
+      <keyword name="bytesPerPixel" id="FCam::bytesPerPixel" ref="namespace_f_cam.html" />
+      <keyword name="getNextEvent" id="FCam::getNextEvent" ref="namespace_f_cam.html" />
+      <keyword name="getNextEvent" id="FCam::getNextEvent" ref="namespace_f_cam.html" />
+      <keyword name="getNextEvent" id="FCam::getNextEvent" ref="namespace_f_cam.html" />
+      <keyword name="getNextEvent" id="FCam::getNextEvent" ref="namespace_f_cam.html" />
+      <keyword name="getNextEvent" id="FCam::getNextEvent" ref="namespace_f_cam.html" />
+      <keyword name="getNextEvent" id="FCam::getNextEvent" ref="namespace_f_cam.html" />
+      <keyword name="postEvent" id="FCam::postEvent" ref="namespace_f_cam.html" />
+      <keyword name="postEvent" id="FCam::postEvent" ref="namespace_f_cam.html" />
+      <keyword name="error" id="FCam::error" ref="namespace_f_cam.html" />
+      <keyword name="warning" id="FCam::warning" ref="namespace_f_cam.html" />
+      <keyword name="error" id="FCam::error" ref="namespace_f_cam.html" />
+      <keyword name="warning" id="FCam::warning" ref="namespace_f_cam.html" />
+      <keyword name="xyToCCT" id="FCam::xyToCCT" ref="namespace_f_cam.html" />
+      <keyword name="kelvinToXY" id="FCam::kelvinToXY" ref="namespace_f_cam.html" />
+      <keyword name="invert3x3" id="FCam::invert3x3" ref="namespace_f_cam.html" />
+      <keyword name="colorMatrixInterpolate" id="FCam::colorMatrixInterpolate" ref="namespace_f_cam.html" />
+      <keyword name="demosaic" id="FCam::demosaic" ref="namespace_f_cam.html" />
+      <keyword name="makeThumbnail" id="FCam::makeThumbnail" ref="namespace_f_cam.html" />
+      <keyword name="saveDNG" id="FCam::saveDNG" ref="namespace_f_cam.html" />
+      <keyword name="loadDNG" id="FCam::loadDNG" ref="namespace_f_cam.html" />
+      <keyword name="saveDump" id="FCam::saveDump" ref="namespace_f_cam.html" />
+      <keyword name="loadDump" id="FCam::loadDump" ref="namespace_f_cam.html" />
+      <keyword name="saveJPEG" id="FCam::saveJPEG" ref="namespace_f_cam.html" />
+      <keyword name="saveJPEG" id="FCam::saveJPEG" ref="namespace_f_cam.html" />
+      <keyword name="_eventQueue" id="FCam::_eventQueue" ref="namespace_f_cam.html" />
+      <keyword name="RGBtoXYZ" id="FCam::RGBtoXYZ" ref="namespace_f_cam.html" />
+      <keyword name="RGB24" id="FCam::RGB24" ref="namespace_f_cam.html" />
+      <keyword name="RGB16" id="FCam::RGB16" ref="namespace_f_cam.html" />
+      <keyword name="UYVY" id="FCam::UYVY" ref="namespace_f_cam.html" />
+      <keyword name="YUV24" id="FCam::YUV24" ref="namespace_f_cam.html" />
+      <keyword name="RAW" id="FCam::RAW" ref="namespace_f_cam.html" />
+      <keyword name="UNKNOWN" id="FCam::UNKNOWN" ref="namespace_f_cam.html" />
+      <keyword name="RGGB" id="FCam::RGGB" ref="namespace_f_cam.html" />
+      <keyword name="BGGR" id="FCam::BGGR" ref="namespace_f_cam.html" />
+      <keyword name="GRBG" id="FCam::GRBG" ref="namespace_f_cam.html" />
+      <keyword name="GBRG" id="FCam::GBRG" ref="namespace_f_cam.html" />
+      <keyword name="NotBayer" id="FCam::NotBayer" ref="namespace_f_cam.html" />
+      <keyword name="FCam::Action" id="FCam::Action" ref="class_f_cam_1_1_action.html" />
+      <keyword name="doAction" id="FCam::Action::doAction" ref="class_f_cam_1_1_action.html" />
+      <keyword name="copy" id="FCam::Action::copy" ref="class_f_cam_1_1_action.html" />
+      <keyword name="time" id="FCam::Action::time" ref="class_f_cam_1_1_action.html" />
+      <keyword name="latency" id="FCam::Action::latency" ref="class_f_cam_1_1_action.html" />
+      <keyword name="FCam::CopyableAction" id="FCam::CopyableAction" ref="class_f_cam_1_1_copyable_action.html" />
+      <keyword name="copy" id="FCam::CopyableAction::copy" ref="class_f_cam_1_1_copyable_action.html" />
+      <keyword name="FCam::AsyncFileWriter" id="FCam::AsyncFileWriter" ref="class_f_cam_1_1_async_file_writer.html" />
+      <keyword name="saveDNG" id="FCam::AsyncFileWriter::saveDNG" ref="class_f_cam_1_1_async_file_writer.html" />
+      <keyword name="saveJPEG" id="FCam::AsyncFileWriter::saveJPEG" ref="class_f_cam_1_1_async_file_writer.html" />
+      <keyword name="saveDump" id="FCam::AsyncFileWriter::saveDump" ref="class_f_cam_1_1_async_file_writer.html" />
+      <keyword name="savesPending" id="FCam::AsyncFileWriter::savesPending" ref="class_f_cam_1_1_async_file_writer.html" />
+      <keyword name="cancel" id="FCam::AsyncFileWriter::cancel" ref="class_f_cam_1_1_async_file_writer.html" />
+      <keyword name="FCam::AutoFocus" id="FCam::AutoFocus" ref="class_f_cam_1_1_auto_focus.html" />
+      <keyword name="AutoFocus" id="FCam::AutoFocus::AutoFocus" ref="class_f_cam_1_1_auto_focus.html" />
+      <keyword name="startSweep" id="FCam::AutoFocus::startSweep" ref="class_f_cam_1_1_auto_focus.html" />
+      <keyword name="update" id="FCam::AutoFocus::update" ref="class_f_cam_1_1_auto_focus.html" />
+      <keyword name="focused" id="FCam::AutoFocus::focused" ref="class_f_cam_1_1_auto_focus.html" />
+      <keyword name="idle" id="FCam::AutoFocus::idle" ref="class_f_cam_1_1_auto_focus.html" />
+      <keyword name="setTarget" id="FCam::AutoFocus::setTarget" ref="class_f_cam_1_1_auto_focus.html" />
+      <keyword name="FCam::Size" id="FCam::Size" ref="struct_f_cam_1_1_size.html" />
+      <keyword name="Size" id="FCam::Size::Size" ref="struct_f_cam_1_1_size.html" />
+      <keyword name="Size" id="FCam::Size::Size" ref="struct_f_cam_1_1_size.html" />
+      <keyword name="operator==" id="FCam::Size::operator==" ref="struct_f_cam_1_1_size.html" />
+      <keyword name="operator!=" id="FCam::Size::operator!=" ref="struct_f_cam_1_1_size.html" />
+      <keyword name="width" id="FCam::Size::width" ref="struct_f_cam_1_1_size.html" />
+      <keyword name="height" id="FCam::Size::height" ref="struct_f_cam_1_1_size.html" />
+      <keyword name="FCam::Rect" id="FCam::Rect" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="Rect" id="FCam::Rect::Rect" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="Rect" id="FCam::Rect::Rect" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="operator==" id="FCam::Rect::operator==" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="operator!=" id="FCam::Rect::operator!=" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="x" id="FCam::Rect::x" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="y" id="FCam::Rect::y" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="width" id="FCam::Rect::width" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="height" id="FCam::Rect::height" ref="struct_f_cam_1_1_rect.html" />
+      <keyword name="FCam::Device" id="FCam::Device" ref="class_f_cam_1_1_device.html" />
+      <keyword name="tagFrame" id="FCam::Device::tagFrame" ref="class_f_cam_1_1_device.html" />
+      <keyword name="FCam::EventGenerator" id="FCam::EventGenerator" ref="class_f_cam_1_1_event_generator.html" />
+      <keyword name="FCam::Event" id="FCam::Event" ref="class_f_cam_1_1_event.html" />
+      <keyword name="creator" id="FCam::Event::creator" ref="class_f_cam_1_1_event.html" />
+      <keyword name="type" id="FCam::Event::type" ref="class_f_cam_1_1_event.html" />
+      <keyword name="data" id="FCam::Event::data" ref="class_f_cam_1_1_event.html" />
+      <keyword name="time" id="FCam::Event::time" ref="class_f_cam_1_1_event.html" />
+      <keyword name="description" id="FCam::Event::description" ref="class_f_cam_1_1_event.html" />
+      <keyword name="Error" id="FCam::Event::Error" ref="class_f_cam_1_1_event.html" />
+      <keyword name="Warning" id="FCam::Event::Warning" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FocusPressed" id="FCam::Event::FocusPressed" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FocusReleased" id="FCam::Event::FocusReleased" ref="class_f_cam_1_1_event.html" />
+      <keyword name="ShutterPressed" id="FCam::Event::ShutterPressed" ref="class_f_cam_1_1_event.html" />
+      <keyword name="ShutterReleased" id="FCam::Event::ShutterReleased" ref="class_f_cam_1_1_event.html" />
+      <keyword name="N900LensClosed" id="FCam::Event::N900LensClosed" ref="class_f_cam_1_1_event.html" />
+      <keyword name="N900LensOpened" id="FCam::Event::N900LensOpened" ref="class_f_cam_1_1_event.html" />
+      <keyword name="N900SlideOpened" id="FCam::Event::N900SlideOpened" ref="class_f_cam_1_1_event.html" />
+      <keyword name="N900SlideClosed" id="FCam::Event::N900SlideClosed" ref="class_f_cam_1_1_event.html" />
+      <keyword name="F2LensRemoved" id="FCam::Event::F2LensRemoved" ref="class_f_cam_1_1_event.html" />
+      <keyword name="F2LensInstalled" id="FCam::Event::F2LensInstalled" ref="class_f_cam_1_1_event.html" />
+      <keyword name="F2ZoomChanged" id="FCam::Event::F2ZoomChanged" ref="class_f_cam_1_1_event.html" />
+      <keyword name="F2FocusChanged" id="FCam::Event::F2FocusChanged" ref="class_f_cam_1_1_event.html" />
+      <keyword name="Unknown" id="FCam::Event::Unknown" ref="class_f_cam_1_1_event.html" />
+      <keyword name="InternalError" id="FCam::Event::InternalError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="DriverLockedError" id="FCam::Event::DriverLockedError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="DriverMissingError" id="FCam::Event::DriverMissingError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="DriverError" id="FCam::Event::DriverError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="ImageTargetLocked" id="FCam::Event::ImageTargetLocked" ref="class_f_cam_1_1_event.html" />
+      <keyword name="ResolutionMismatch" id="FCam::Event::ResolutionMismatch" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FormatMismatch" id="FCam::Event::FormatMismatch" ref="class_f_cam_1_1_event.html" />
+      <keyword name="OutOfMemory" id="FCam::Event::OutOfMemory" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FrameLimitHit" id="FCam::Event::FrameLimitHit" ref="class_f_cam_1_1_event.html" />
+      <keyword name="LensHistoryError" id="FCam::Event::LensHistoryError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FlashHistoryError" id="FCam::Event::FlashHistoryError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="DemosaicError" id="FCam::Event::DemosaicError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="ImageLockError" id="FCam::Event::ImageLockError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="BadCast" id="FCam::Event::BadCast" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FileLoadError" id="FCam::Event::FileLoadError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FileLoadWarning" id="FCam::Event::FileLoadWarning" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FileSaveError" id="FCam::Event::FileSaveError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FileSaveWarning" id="FCam::Event::FileSaveWarning" ref="class_f_cam_1_1_event.html" />
+      <keyword name="SensorStoppedError" id="FCam::Event::SensorStoppedError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="ParseError" id="FCam::Event::ParseError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FrameDataError" id="FCam::Event::FrameDataError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="ImageDroppedError" id="FCam::Event::ImageDroppedError" ref="class_f_cam_1_1_event.html" />
+      <keyword name="OutOfRange" id="FCam::Event::OutOfRange" ref="class_f_cam_1_1_event.html" />
+      <keyword name="FCam::Flash" id="FCam::Flash" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="minDuration" id="FCam::Flash::minDuration" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="maxDuration" id="FCam::Flash::maxDuration" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="minBrightness" id="FCam::Flash::minBrightness" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="maxBrightness" id="FCam::Flash::maxBrightness" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="fire" id="FCam::Flash::fire" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="fireLatency" id="FCam::Flash::fireLatency" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="getBrightness" id="FCam::Flash::getBrightness" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="tagFrame" id="FCam::Flash::tagFrame" ref="class_f_cam_1_1_flash.html" />
+      <keyword name="FCam::Flash::FireAction" id="FCam::Flash::FireAction" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="FireAction" id="FCam::Flash::FireAction::FireAction" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="FireAction" id="FCam::Flash::FireAction::FireAction" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="FireAction" id="FCam::Flash::FireAction::FireAction" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="doAction" id="FCam::Flash::FireAction::doAction" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="getFlash" id="FCam::Flash::FireAction::getFlash" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="brightness" id="FCam::Flash::FireAction::brightness" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="duration" id="FCam::Flash::FireAction::duration" ref="class_f_cam_1_1_flash_1_1_fire_action.html" />
+      <keyword name="FCam::Flash::Tags" id="FCam::Flash::Tags" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+      <keyword name="Tags" id="FCam::Flash::Tags::Tags" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+      <keyword name="brightness" id="FCam::Flash::Tags::brightness" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+      <keyword name="start" id="FCam::Flash::Tags::start" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+      <keyword name="duration" id="FCam::Flash::Tags::duration" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+      <keyword name="peak" id="FCam::Flash::Tags::peak" ref="class_f_cam_1_1_flash_1_1_tags.html" />
+      <keyword name="FCam::_Frame" id="FCam::_Frame" ref="struct_f_cam_1_1___frame.html" />
+      <keyword name="debug" id="FCam::_Frame::debug" ref="struct_f_cam_1_1___frame.html" />
+      <keyword name="FCam::Frame" id="FCam::Frame" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="Frame" id="FCam::Frame::Frame" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="~Frame" id="FCam::Frame::~Frame" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="valid" id="FCam::Frame::valid" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="operator==" id="FCam::Frame::operator==" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="image" id="FCam::Frame::image" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="exposureStartTime" id="FCam::Frame::exposureStartTime" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="exposureEndTime" id="FCam::Frame::exposureEndTime" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="processingDoneTime" id="FCam::Frame::processingDoneTime" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="exposure" id="FCam::Frame::exposure" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="frameTime" id="FCam::Frame::frameTime" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="gain" id="FCam::Frame::gain" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="whiteBalance" id="FCam::Frame::whiteBalance" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="histogram" id="FCam::Frame::histogram" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="sharpness" id="FCam::Frame::sharpness" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="shot" id="FCam::Frame::shot" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="tags" id="FCam::Frame::tags" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="operator[]" id="FCam::Frame::operator[]" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="platform" id="FCam::Frame::platform" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="operator EventGenerator *" id="FCam::Frame::operator EventGenerator *" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="debug" id="FCam::Frame::debug" ref="class_f_cam_1_1_frame.html" />
+      <keyword name="FCam::HistogramConfig" id="FCam::HistogramConfig" ref="class_f_cam_1_1_histogram_config.html" />
+      <keyword name="HistogramConfig" id="FCam::HistogramConfig::HistogramConfig" ref="class_f_cam_1_1_histogram_config.html" />
+      <keyword name="operator==" id="FCam::HistogramConfig::operator==" ref="class_f_cam_1_1_histogram_config.html" />
+      <keyword name="operator!=" id="FCam::HistogramConfig::operator!=" ref="class_f_cam_1_1_histogram_config.html" />
+      <keyword name="region" id="FCam::HistogramConfig::region" ref="class_f_cam_1_1_histogram_config.html" />
+      <keyword name="buckets" id="FCam::HistogramConfig::buckets" ref="class_f_cam_1_1_histogram_config.html" />
+      <keyword name="enabled" id="FCam::HistogramConfig::enabled" ref="class_f_cam_1_1_histogram_config.html" />
+      <keyword name="FCam::Histogram" id="FCam::Histogram" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="Histogram" id="FCam::Histogram::Histogram" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="Histogram" id="FCam::Histogram::Histogram" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="operator()" id="FCam::Histogram::operator()" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="operator()" id="FCam::Histogram::operator()" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="operator()" id="FCam::Histogram::operator()" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="valid" id="FCam::Histogram::valid" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="data" id="FCam::Histogram::data" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="buckets" id="FCam::Histogram::buckets" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="channels" id="FCam::Histogram::channels" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="region" id="FCam::Histogram::region" ref="class_f_cam_1_1_histogram.html" />
+      <keyword name="FCam::Image" id="FCam::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="size" id="FCam::Image::size" ref="class_f_cam_1_1_image.html" />
+      <keyword name="width" id="FCam::Image::width" ref="class_f_cam_1_1_image.html" />
+      <keyword name="height" id="FCam::Image::height" ref="class_f_cam_1_1_image.html" />
+      <keyword name="type" id="FCam::Image::type" ref="class_f_cam_1_1_image.html" />
+      <keyword name="bytesPerPixel" id="FCam::Image::bytesPerPixel" ref="class_f_cam_1_1_image.html" />
+      <keyword name="bytesPerRow" id="FCam::Image::bytesPerRow" ref="class_f_cam_1_1_image.html" />
+      <keyword name="valid" id="FCam::Image::valid" ref="class_f_cam_1_1_image.html" />
+      <keyword name="discard" id="FCam::Image::discard" ref="class_f_cam_1_1_image.html" />
+      <keyword name="autoAllocate" id="FCam::Image::autoAllocate" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Image" id="FCam::Image::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Image" id="FCam::Image::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Image" id="FCam::Image::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="copy" id="FCam::Image::copy" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Image" id="FCam::Image::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Image" id="FCam::Image::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Image" id="FCam::Image::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Image" id="FCam::Image::Image" ref="class_f_cam_1_1_image.html" />
+      <keyword name="subImage" id="FCam::Image::subImage" ref="class_f_cam_1_1_image.html" />
+      <keyword name="operator=" id="FCam::Image::operator=" ref="class_f_cam_1_1_image.html" />
+      <keyword name="operator()" id="FCam::Image::operator()" ref="class_f_cam_1_1_image.html" />
+      <keyword name="copyFrom" id="FCam::Image::copyFrom" ref="class_f_cam_1_1_image.html" />
+      <keyword name="lock" id="FCam::Image::lock" ref="class_f_cam_1_1_image.html" />
+      <keyword name="unlock" id="FCam::Image::unlock" ref="class_f_cam_1_1_image.html" />
+      <keyword name="operator==" id="FCam::Image::operator==" ref="class_f_cam_1_1_image.html" />
+      <keyword name="debug" id="FCam::Image::debug" ref="class_f_cam_1_1_image.html" />
+      <keyword name="Discard" id="FCam::Image::Discard" ref="class_f_cam_1_1_image.html" />
+      <keyword name="AutoAllocate" id="FCam::Image::AutoAllocate" ref="class_f_cam_1_1_image.html" />
+      <keyword name="FCam::Lens" id="FCam::Lens" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="tagFrame" id="FCam::Lens::tagFrame" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="setFocus" id="FCam::Lens::setFocus" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="getFocus" id="FCam::Lens::getFocus" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="farFocus" id="FCam::Lens::farFocus" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="nearFocus" id="FCam::Lens::nearFocus" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="focusChanging" id="FCam::Lens::focusChanging" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="focusLatency" id="FCam::Lens::focusLatency" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="minFocusSpeed" id="FCam::Lens::minFocusSpeed" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="maxFocusSpeed" id="FCam::Lens::maxFocusSpeed" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="setZoom" id="FCam::Lens::setZoom" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="getZoom" id="FCam::Lens::getZoom" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="minZoom" id="FCam::Lens::minZoom" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="maxZoom" id="FCam::Lens::maxZoom" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="zoomChanging" id="FCam::Lens::zoomChanging" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="zoomLatency" id="FCam::Lens::zoomLatency" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="minZoomSpeed" id="FCam::Lens::minZoomSpeed" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="maxZoomSpeed" id="FCam::Lens::maxZoomSpeed" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="setAperture" id="FCam::Lens::setAperture" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="getAperture" id="FCam::Lens::getAperture" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="wideAperture" id="FCam::Lens::wideAperture" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="narrowAperture" id="FCam::Lens::narrowAperture" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="apertureChanging" id="FCam::Lens::apertureChanging" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="apertureLatency" id="FCam::Lens::apertureLatency" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="minApertureSpeed" id="FCam::Lens::minApertureSpeed" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="maxApertureSpeed" id="FCam::Lens::maxApertureSpeed" ref="class_f_cam_1_1_lens.html" />
+      <keyword name="FCam::Lens::ApertureAction" id="FCam::Lens::ApertureAction" ref="class_f_cam_1_1_lens_1_1_aperture_action.html" />
+      <keyword name="FCam::Lens::FocusAction" id="FCam::Lens::FocusAction" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+      <keyword name="FocusAction" id="FCam::Lens::FocusAction::FocusAction" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+      <keyword name="FocusAction" id="FCam::Lens::FocusAction::FocusAction" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+      <keyword name="FocusAction" id="FCam::Lens::FocusAction::FocusAction" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+      <keyword name="doAction" id="FCam::Lens::FocusAction::doAction" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+      <keyword name="focus" id="FCam::Lens::FocusAction::focus" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+      <keyword name="speed" id="FCam::Lens::FocusAction::speed" ref="class_f_cam_1_1_lens_1_1_focus_action.html" />
+      <keyword name="FCam::Lens::Tags" id="FCam::Lens::Tags" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="Tags" id="FCam::Lens::Tags::Tags" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="focus" id="FCam::Lens::Tags::focus" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="focusSpeed" id="FCam::Lens::Tags::focusSpeed" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="initialFocus" id="FCam::Lens::Tags::initialFocus" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="finalFocus" id="FCam::Lens::Tags::finalFocus" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="zoom" id="FCam::Lens::Tags::zoom" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="zoomSpeed" id="FCam::Lens::Tags::zoomSpeed" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="initialZoom" id="FCam::Lens::Tags::initialZoom" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="finalZoom" id="FCam::Lens::Tags::finalZoom" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="aperture" id="FCam::Lens::Tags::aperture" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="apertureSpeed" id="FCam::Lens::Tags::apertureSpeed" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="initialAperture" id="FCam::Lens::Tags::initialAperture" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="finalAperture" id="FCam::Lens::Tags::finalAperture" ref="struct_f_cam_1_1_lens_1_1_tags.html" />
+      <keyword name="FCam::Lens::ZoomAction" id="FCam::Lens::ZoomAction" ref="class_f_cam_1_1_lens_1_1_zoom_action.html" />
+      <keyword name="FCam::Platform" id="FCam::Platform" ref="class_f_cam_1_1_platform.html" />
+      <keyword name="bayerPattern" id="FCam::Platform::bayerPattern" ref="class_f_cam_1_1_platform.html" />
+      <keyword name="rawToRGBColorMatrix" id="FCam::Platform::rawToRGBColorMatrix" ref="class_f_cam_1_1_platform.html" />
+      <keyword name="manufacturer" id="FCam::Platform::manufacturer" ref="class_f_cam_1_1_platform.html" />
+      <keyword name="model" id="FCam::Platform::model" ref="class_f_cam_1_1_platform.html" />
+      <keyword name="minRawValue" id="FCam::Platform::minRawValue" ref="class_f_cam_1_1_platform.html" />
+      <keyword name="maxRawValue" id="FCam::Platform::maxRawValue" ref="class_f_cam_1_1_platform.html" />
+      <keyword name="FCam::_DNGFrame" id="FCam::_DNGFrame" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="platform" id="FCam::_DNGFrame::platform" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="bayerPattern" id="FCam::_DNGFrame::bayerPattern" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="minRawValue" id="FCam::_DNGFrame::minRawValue" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="maxRawValue" id="FCam::_DNGFrame::maxRawValue" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="rawToRGBColorMatrix" id="FCam::_DNGFrame::rawToRGBColorMatrix" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="manufacturer" id="FCam::_DNGFrame::manufacturer" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="model" id="FCam::_DNGFrame::model" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="debug" id="FCam::_DNGFrame::debug" ref="class_f_cam_1_1___d_n_g_frame.html" />
+      <keyword name="FCam::DNGFrame" id="FCam::DNGFrame" ref="class_f_cam_1_1_d_n_g_frame.html" />
+      <keyword name="DNGFrame" id="FCam::DNGFrame::DNGFrame" ref="class_f_cam_1_1_d_n_g_frame.html" />
+      <keyword name="FCam::Sensor" id="FCam::Sensor" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::Sensor::capture" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::Sensor::capture" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::Sensor::stream" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::Sensor::stream" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="streaming" id="FCam::Sensor::streaming" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="stopStreaming" id="FCam::Sensor::stopStreaming" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="start" id="FCam::Sensor::start" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="stop" id="FCam::Sensor::stop" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="setFrameLimit" id="FCam::Sensor::setFrameLimit" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="getFrameLimit" id="FCam::Sensor::getFrameLimit" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="setDropPolicy" id="FCam::Sensor::setDropPolicy" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="getDropPolicy" id="FCam::Sensor::getDropPolicy" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="getFrame" id="FCam::Sensor::getFrame" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="framesPending" id="FCam::Sensor::framesPending" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="shotsPending" id="FCam::Sensor::shotsPending" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="attach" id="FCam::Sensor::attach" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="maxExposure" id="FCam::Sensor::maxExposure" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="minExposure" id="FCam::Sensor::minExposure" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="maxFrameTime" id="FCam::Sensor::maxFrameTime" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="minFrameTime" id="FCam::Sensor::minFrameTime" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="maxGain" id="FCam::Sensor::maxGain" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="minGain" id="FCam::Sensor::minGain" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="minImageSize" id="FCam::Sensor::minImageSize" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="maxImageSize" id="FCam::Sensor::maxImageSize" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="maxHistogramRegions" id="FCam::Sensor::maxHistogramRegions" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="rollingShutterTime" id="FCam::Sensor::rollingShutterTime" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="platform" id="FCam::Sensor::platform" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="tagFrame" id="FCam::Sensor::tagFrame" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="DropNewest" id="FCam::Sensor::DropNewest" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="DropOldest" id="FCam::Sensor::DropOldest" ref="class_f_cam_1_1_sensor.html" />
+      <keyword name="FCam::SharpnessMapConfig" id="FCam::SharpnessMapConfig" ref="class_f_cam_1_1_sharpness_map_config.html" />
+      <keyword name="SharpnessMapConfig" id="FCam::SharpnessMapConfig::SharpnessMapConfig" ref="class_f_cam_1_1_sharpness_map_config.html" />
+      <keyword name="operator==" id="FCam::SharpnessMapConfig::operator==" ref="class_f_cam_1_1_sharpness_map_config.html" />
+      <keyword name="operator!=" id="FCam::SharpnessMapConfig::operator!=" ref="class_f_cam_1_1_sharpness_map_config.html" />
+      <keyword name="size" id="FCam::SharpnessMapConfig::size" ref="class_f_cam_1_1_sharpness_map_config.html" />
+      <keyword name="enabled" id="FCam::SharpnessMapConfig::enabled" ref="class_f_cam_1_1_sharpness_map_config.html" />
+      <keyword name="FCam::SharpnessMap" id="FCam::SharpnessMap" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="SharpnessMap" id="FCam::SharpnessMap::SharpnessMap" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="SharpnessMap" id="FCam::SharpnessMap::SharpnessMap" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="operator()" id="FCam::SharpnessMap::operator()" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="operator()" id="FCam::SharpnessMap::operator()" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="operator()" id="FCam::SharpnessMap::operator()" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="valid" id="FCam::SharpnessMap::valid" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="channels" id="FCam::SharpnessMap::channels" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="size" id="FCam::SharpnessMap::size" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="height" id="FCam::SharpnessMap::height" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="width" id="FCam::SharpnessMap::width" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="data" id="FCam::SharpnessMap::data" ref="class_f_cam_1_1_sharpness_map.html" />
+      <keyword name="FCam::Shot" id="FCam::Shot" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="addAction" id="FCam::Shot::addAction" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="clearActions" id="FCam::Shot::clearActions" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="actions" id="FCam::Shot::actions" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="Shot" id="FCam::Shot::Shot" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="operator=" id="FCam::Shot::operator=" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="setColorMatrix" id="FCam::Shot::setColorMatrix" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="colorMatrix" id="FCam::Shot::colorMatrix" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="clearColorMatrix" id="FCam::Shot::clearColorMatrix" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="image" id="FCam::Shot::image" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="exposure" id="FCam::Shot::exposure" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="frameTime" id="FCam::Shot::frameTime" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="gain" id="FCam::Shot::gain" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="whiteBalance" id="FCam::Shot::whiteBalance" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="histogram" id="FCam::Shot::histogram" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="sharpness" id="FCam::Shot::sharpness" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="wanted" id="FCam::Shot::wanted" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="id" id="FCam::Shot::id" ref="class_f_cam_1_1_shot.html" />
+      <keyword name="FCam::TagValue" id="FCam::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="valid" id="FCam::TagValue::valid" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="toString" id="FCam::TagValue::toString" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="toBlob" id="FCam::TagValue::toBlob" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TagValue" id="FCam::TagValue::TagValue" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator=" id="FCam::TagValue::operator=" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator int &amp;" id="FCam::TagValue::operator int &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator float &amp;" id="FCam::TagValue::operator float &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator double &amp;" id="FCam::TagValue::operator double &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator std::string &amp;" id="FCam::TagValue::operator std::string &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator FCam::Time &amp;" id="FCam::TagValue::operator FCam::Time &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator std::vector&lt; int &gt; &amp;" id="FCam::TagValue::operator std::vector&lt; int &gt; &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator std::vector&lt; float &gt; &amp;" id="FCam::TagValue::operator std::vector&lt; float &gt; &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator std::vector&lt; double &gt; &amp;" id="FCam::TagValue::operator std::vector&lt; double &gt; &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator std::vector&lt; std::string &gt; &amp;" id="FCam::TagValue::operator std::vector&lt; std::string &gt; &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator std::vector&lt; FCam::Time &gt; &amp;" id="FCam::TagValue::operator std::vector&lt; FCam::Time &gt; &amp;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asInt" id="FCam::TagValue::asInt" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asFloat" id="FCam::TagValue::asFloat" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asDouble" id="FCam::TagValue::asDouble" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asString" id="FCam::TagValue::asString" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asTime" id="FCam::TagValue::asTime" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asIntVector" id="FCam::TagValue::asIntVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asFloatVector" id="FCam::TagValue::asFloatVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asDoubleVector" id="FCam::TagValue::asDoubleVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asStringVector" id="FCam::TagValue::asStringVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="asTimeVector" id="FCam::TagValue::asTimeVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="fromString" id="FCam::TagValue::fromString" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="type" id="FCam::TagValue::type" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="data" id="FCam::TagValue::data" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator&lt;&lt;" id="FCam::TagValue::operator&lt;&lt;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="operator&gt;&gt;" id="FCam::TagValue::operator&gt;&gt;" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="Null" id="FCam::TagValue::Null" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="Int" id="FCam::TagValue::Int" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="Float" id="FCam::TagValue::Float" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="Double" id="FCam::TagValue::Double" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="String" id="FCam::TagValue::String" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="Time" id="FCam::TagValue::Time" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="IntVector" id="FCam::TagValue::IntVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="FloatVector" id="FCam::TagValue::FloatVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="DoubleVector" id="FCam::TagValue::DoubleVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="StringVector" id="FCam::TagValue::StringVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="TimeVector" id="FCam::TagValue::TimeVector" ref="class_f_cam_1_1_tag_value.html" />
+      <keyword name="FCam::Time" id="FCam::Time" ref="class_f_cam_1_1_time.html" />
+      <keyword name="Time" id="FCam::Time::Time" ref="class_f_cam_1_1_time.html" />
+      <keyword name="Time" id="FCam::Time::Time" ref="class_f_cam_1_1_time.html" />
+      <keyword name="Time" id="FCam::Time::Time" ref="class_f_cam_1_1_time.html" />
+      <keyword name="s" id="FCam::Time::s" ref="class_f_cam_1_1_time.html" />
+      <keyword name="us" id="FCam::Time::us" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator+" id="FCam::Time::operator+" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator+=" id="FCam::Time::operator+=" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator-" id="FCam::Time::operator-" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator-=" id="FCam::Time::operator-=" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator-" id="FCam::Time::operator-" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator&lt;" id="FCam::Time::operator&lt;" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator&gt;" id="FCam::Time::operator&gt;" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator&gt;=" id="FCam::Time::operator&gt;=" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator&lt;=" id="FCam::Time::operator&lt;=" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator==" id="FCam::Time::operator==" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator!=" id="FCam::Time::operator!=" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator timeval" id="FCam::Time::operator timeval" ref="class_f_cam_1_1_time.html" />
+      <keyword name="operator struct timespec" id="FCam::Time::operator struct timespec" ref="class_f_cam_1_1_time.html" />
+      <keyword name="now" id="FCam::Time::now" ref="class_f_cam_1_1_time.html" />
+      <keyword name="FCam::TSQueue" id="FCam::TSQueue" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="push" id="FCam::TSQueue::push" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="pop" id="FCam::TSQueue::pop" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="pushFront" id="FCam::TSQueue::pushFront" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="popBack" id="FCam::TSQueue::popBack" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="front" id="FCam::TSQueue::front" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="back" id="FCam::TSQueue::back" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="empty" id="FCam::TSQueue::empty" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="size" id="FCam::TSQueue::size" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="wait" id="FCam::TSQueue::wait" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="pull" id="FCam::TSQueue::pull" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="pullBack" id="FCam::TSQueue::pullBack" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="tryPull" id="FCam::TSQueue::tryPull" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="begin" id="FCam::TSQueue::begin" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="end" id="FCam::TSQueue::end" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="erase" id="FCam::TSQueue::erase" ref="class_f_cam_1_1_t_s_queue.html" />
+      <keyword name="FCam::Dummy" id="FCam::Dummy" ref="namespace_f_cam_1_1_dummy.html" />
+      <keyword name="FCam::Dummy::Platform" id="FCam::Dummy::Platform" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="rawToRGBColorMatrix" id="FCam::Dummy::Platform::rawToRGBColorMatrix" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="manufacturer" id="FCam::Dummy::Platform::manufacturer" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="model" id="FCam::Dummy::Platform::model" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="minRawValue" id="FCam::Dummy::Platform::minRawValue" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="maxRawValue" id="FCam::Dummy::Platform::maxRawValue" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="bayerPattern" id="FCam::Dummy::Platform::bayerPattern" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="instance" id="FCam::Dummy::Platform::instance" ref="class_f_cam_1_1_dummy_1_1_platform.html" />
+      <keyword name="FCam::Dummy::Sensor" id="FCam::Dummy::Sensor" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::Dummy::Sensor::capture" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::Dummy::Sensor::capture" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::Dummy::Sensor::stream" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::Dummy::Sensor::stream" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="streaming" id="FCam::Dummy::Sensor::streaming" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="stopStreaming" id="FCam::Dummy::Sensor::stopStreaming" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="start" id="FCam::Dummy::Sensor::start" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="stop" id="FCam::Dummy::Sensor::stop" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="maxExposure" id="FCam::Dummy::Sensor::maxExposure" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="minExposure" id="FCam::Dummy::Sensor::minExposure" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="maxFrameTime" id="FCam::Dummy::Sensor::maxFrameTime" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="minFrameTime" id="FCam::Dummy::Sensor::minFrameTime" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="maxGain" id="FCam::Dummy::Sensor::maxGain" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="minGain" id="FCam::Dummy::Sensor::minGain" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="minImageSize" id="FCam::Dummy::Sensor::minImageSize" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="maxImageSize" id="FCam::Dummy::Sensor::maxImageSize" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="maxHistogramRegions" id="FCam::Dummy::Sensor::maxHistogramRegions" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="rollingShutterTime" id="FCam::Dummy::Sensor::rollingShutterTime" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="framesPending" id="FCam::Dummy::Sensor::framesPending" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="shotsPending" id="FCam::Dummy::Sensor::shotsPending" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="platform" id="FCam::Dummy::Sensor::platform" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="getFrame" id="FCam::Dummy::Sensor::getFrame" ref="class_f_cam_1_1_dummy_1_1_sensor.html" />
+      <keyword name="FCam::Dummy::Shot" id="FCam::Dummy::Shot" ref="class_f_cam_1_1_dummy_1_1_shot.html" />
+      <keyword name="Shot" id="FCam::Dummy::Shot::Shot" ref="class_f_cam_1_1_dummy_1_1_shot.html" />
+      <keyword name="operator=" id="FCam::Dummy::Shot::operator=" ref="class_f_cam_1_1_dummy_1_1_shot.html" />
+      <keyword name="FCam::F2" id="FCam::F2" ref="namespace_f_cam_1_1_f2.html" />
+      <keyword name="FCam::F2::Flash" id="FCam::F2::Flash" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="Flash" id="FCam::F2::Flash::Flash" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="minDuration" id="FCam::F2::Flash::minDuration" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="maxDuration" id="FCam::F2::Flash::maxDuration" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="minBrightness" id="FCam::F2::Flash::minBrightness" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="maxBrightness" id="FCam::F2::Flash::maxBrightness" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="fire" id="FCam::F2::Flash::fire" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="fireLatency" id="FCam::F2::Flash::fireLatency" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="startStrobe" id="FCam::F2::Flash::startStrobe" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="stopStrobe" id="FCam::F2::Flash::stopStrobe" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="getBrightness" id="FCam::F2::Flash::getBrightness" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="tagFrame" id="FCam::F2::Flash::tagFrame" ref="class_f_cam_1_1_f2_1_1_flash.html" />
+      <keyword name="FCam::F2::Flash::StrobeStartAction" id="FCam::F2::Flash::StrobeStartAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" />
+      <keyword name="StrobeStartAction" id="FCam::F2::Flash::StrobeStartAction::StrobeStartAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" />
+      <keyword name="StrobeStartAction" id="FCam::F2::Flash::StrobeStartAction::StrobeStartAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" />
+      <keyword name="doAction" id="FCam::F2::Flash::StrobeStartAction::doAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" />
+      <keyword name="flash" id="FCam::F2::Flash::StrobeStartAction::flash" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" />
+      <keyword name="FCam::F2::Flash::StrobeStopAction" id="FCam::F2::Flash::StrobeStopAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" />
+      <keyword name="StrobeStopAction" id="FCam::F2::Flash::StrobeStopAction::StrobeStopAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" />
+      <keyword name="StrobeStopAction" id="FCam::F2::Flash::StrobeStopAction::StrobeStopAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" />
+      <keyword name="doAction" id="FCam::F2::Flash::StrobeStopAction::doAction" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" />
+      <keyword name="flash" id="FCam::F2::Flash::StrobeStopAction::flash" ref="class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" />
+      <keyword name="FCam::F2::_Frame" id="FCam::F2::_Frame" ref="struct_f_cam_1_1_f2_1_1___frame.html" />
+      <keyword name="FCam::F2::Frame" id="FCam::F2::Frame" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="Frame" id="FCam::F2::Frame::Frame" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="rowSkip" id="FCam::F2::Frame::rowSkip" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="colSkip" id="FCam::F2::Frame::colSkip" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="rowBin" id="FCam::F2::Frame::rowBin" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="colBin" id="FCam::F2::Frame::colBin" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="roiStartX" id="FCam::F2::Frame::roiStartX" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="roiStartY" id="FCam::F2::Frame::roiStartY" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="shot" id="FCam::F2::Frame::shot" ref="class_f_cam_1_1_f2_1_1_frame.html" />
+      <keyword name="FCam::F2::Lens" id="FCam::F2::Lens" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+      <keyword name="setFocus" id="FCam::F2::Lens::setFocus" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+      <keyword name="setZoom" id="FCam::F2::Lens::setZoom" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+      <keyword name="setAperture" id="FCam::F2::Lens::setAperture" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+      <keyword name="tagFrame" id="FCam::F2::Lens::tagFrame" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+      <keyword name="getState" id="FCam::F2::Lens::getState" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+      <keyword name="reset" id="FCam::F2::Lens::reset" ref="class_f_cam_1_1_f2_1_1_lens.html" />
+      <keyword name="FCam::F2::Sensor" id="FCam::F2::Sensor" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::F2::Sensor::capture" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::F2::Sensor::capture" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::F2::Sensor::capture" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::F2::Sensor::capture" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::F2::Sensor::stream" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::F2::Sensor::stream" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::F2::Sensor::stream" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::F2::Sensor::stream" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="streaming" id="FCam::F2::Sensor::streaming" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="stopStreaming" id="FCam::F2::Sensor::stopStreaming" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="start" id="FCam::F2::Sensor::start" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="stop" id="FCam::F2::Sensor::stop" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="maxExposure" id="FCam::F2::Sensor::maxExposure" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="minExposure" id="FCam::F2::Sensor::minExposure" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="maxFrameTime" id="FCam::F2::Sensor::maxFrameTime" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="minFrameTime" id="FCam::F2::Sensor::minFrameTime" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="maxGain" id="FCam::F2::Sensor::maxGain" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="minGain" id="FCam::F2::Sensor::minGain" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="minImageSize" id="FCam::F2::Sensor::minImageSize" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="maxImageSize" id="FCam::F2::Sensor::maxImageSize" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="rollingShutterTime" id="FCam::F2::Sensor::rollingShutterTime" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="rollingShutterTime" id="FCam::F2::Sensor::rollingShutterTime" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="framesPending" id="FCam::F2::Sensor::framesPending" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="shotsPending" id="FCam::F2::Sensor::shotsPending" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="getFrame" id="FCam::F2::Sensor::getFrame" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="pixelArraySize" id="FCam::F2::Sensor::pixelArraySize" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="activeArrayRect" id="FCam::F2::Sensor::activeArrayRect" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="pixelArrayRect" id="FCam::F2::Sensor::pixelArrayRect" ref="class_f_cam_1_1_f2_1_1_sensor.html" />
+      <keyword name="FCam::F2::Shot" id="FCam::F2::Shot" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="roiRegionSmaller" id="FCam::F2::Shot::roiRegionSmaller" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="roiRegionSmaller" id="FCam::F2::Shot::roiRegionSmaller" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="roiRegionLarger" id="FCam::F2::Shot::roiRegionLarger" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="roiRegionLarger" id="FCam::F2::Shot::roiRegionLarger" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="Shot" id="FCam::F2::Shot::Shot" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="operator=" id="FCam::F2::Shot::operator=" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="rowSkip" id="FCam::F2::Shot::rowSkip" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="colSkip" id="FCam::F2::Shot::colSkip" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="rowBin" id="FCam::F2::Shot::rowBin" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="colBin" id="FCam::F2::Shot::colBin" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="roiCentered" id="FCam::F2::Shot::roiCentered" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="roiStartX" id="FCam::F2::Shot::roiStartX" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="roiStartY" id="FCam::F2::Shot::roiStartY" ref="class_f_cam_1_1_f2_1_1_shot.html" />
+      <keyword name="FCam::F2::ShutterButton" id="FCam::F2::ShutterButton" ref="class_f_cam_1_1_f2_1_1_shutter_button.html" />
+      <keyword name="getEventString" id="FCam::F2::ShutterButton::getEventString" ref="class_f_cam_1_1_f2_1_1_shutter_button.html" />
+      <keyword name="ShutterButton" id="FCam::F2::ShutterButton::ShutterButton" ref="class_f_cam_1_1_f2_1_1_shutter_button.html" />
+      <keyword name="FCam::F2::PhidgetFlash" id="FCam::F2::PhidgetFlash" ref="class_f_cam_1_1_f2_1_1_phidget_flash.html" />
+      <keyword name="triggerFlash" id="FCam::F2::PhidgetFlash::triggerFlash" ref="class_f_cam_1_1_f2_1_1_phidget_flash.html" />
+      <keyword name="startStrobe" id="FCam::F2::PhidgetFlash::startStrobe" ref="class_f_cam_1_1_f2_1_1_phidget_flash.html" />
+      <keyword name="stopStrobe" id="FCam::F2::PhidgetFlash::stopStrobe" ref="class_f_cam_1_1_f2_1_1_phidget_flash.html" />
+      <keyword name="FCam::F2::PhidgetDevice" id="FCam::F2::PhidgetDevice" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="PhidgetDevice" id="FCam::F2::PhidgetDevice::PhidgetDevice" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="tagFrame" id="FCam::F2::PhidgetDevice::tagFrame" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="handleInputChange" id="FCam::F2::PhidgetDevice::handleInputChange" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="handleOutputChange" id="FCam::F2::PhidgetDevice::handleOutputChange" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="handleSensorChange" id="FCam::F2::PhidgetDevice::handleSensorChange" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="registerInputChangeHandler" id="FCam::F2::PhidgetDevice::registerInputChangeHandler" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="registerOutputChangeHandler" id="FCam::F2::PhidgetDevice::registerOutputChangeHandler" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="registerSensorChangeHandler" id="FCam::F2::PhidgetDevice::registerSensorChangeHandler" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="ifKit" id="FCam::F2::PhidgetDevice::ifKit" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="phidgetsAvailable" id="FCam::F2::PhidgetDevice::phidgetsAvailable" ref="class_f_cam_1_1_f2_1_1_phidget_device.html" />
+      <keyword name="FCam::F2::ColBin" id="FCam::F2::ColBin" ref="namespace_f_cam_1_1_f2_1_1_col_bin.html" />
+      <keyword name="FCam::F2::ColSkip" id="FCam::F2::ColSkip" ref="namespace_f_cam_1_1_f2_1_1_col_skip.html" />
+      <keyword name="FCam::F2::RowBin" id="FCam::F2::RowBin" ref="namespace_f_cam_1_1_f2_1_1_row_bin.html" />
+      <keyword name="FCam::F2::RowSkip" id="FCam::F2::RowSkip" ref="namespace_f_cam_1_1_f2_1_1_row_skip.html" />
+      <keyword name="FCam::N900" id="FCam::N900" ref="namespace_f_cam_1_1_n900.html" />
+      <keyword name="FCam::N900::Flash" id="FCam::N900::Flash" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="minDuration" id="FCam::N900::Flash::minDuration" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="maxDuration" id="FCam::N900::Flash::maxDuration" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="minBrightness" id="FCam::N900::Flash::minBrightness" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="maxBrightness" id="FCam::N900::Flash::maxBrightness" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="fire" id="FCam::N900::Flash::fire" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="fireLatency" id="FCam::N900::Flash::fireLatency" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="getBrightness" id="FCam::N900::Flash::getBrightness" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="tagFrame" id="FCam::N900::Flash::tagFrame" ref="class_f_cam_1_1_n900_1_1_flash.html" />
+      <keyword name="FCam::N900::Frame" id="FCam::N900::Frame" ref="class_f_cam_1_1_n900_1_1_frame.html" />
+      <keyword name="~Frame" id="FCam::N900::Frame::~Frame" ref="class_f_cam_1_1_n900_1_1_frame.html" />
+      <keyword name="FCam::N900::Lens" id="FCam::N900::Lens" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="setFocus" id="FCam::N900::Lens::setFocus" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="getFocus" id="FCam::N900::Lens::getFocus" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="farFocus" id="FCam::N900::Lens::farFocus" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="nearFocus" id="FCam::N900::Lens::nearFocus" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="focusChanging" id="FCam::N900::Lens::focusChanging" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="minFocusSpeed" id="FCam::N900::Lens::minFocusSpeed" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="maxFocusSpeed" id="FCam::N900::Lens::maxFocusSpeed" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="focusLatency" id="FCam::N900::Lens::focusLatency" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="setZoom" id="FCam::N900::Lens::setZoom" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="getZoom" id="FCam::N900::Lens::getZoom" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="minZoom" id="FCam::N900::Lens::minZoom" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="maxZoom" id="FCam::N900::Lens::maxZoom" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="zoomChanging" id="FCam::N900::Lens::zoomChanging" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="minZoomSpeed" id="FCam::N900::Lens::minZoomSpeed" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="maxZoomSpeed" id="FCam::N900::Lens::maxZoomSpeed" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="zoomLatency" id="FCam::N900::Lens::zoomLatency" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="setAperture" id="FCam::N900::Lens::setAperture" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="getAperture" id="FCam::N900::Lens::getAperture" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="wideAperture" id="FCam::N900::Lens::wideAperture" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="narrowAperture" id="FCam::N900::Lens::narrowAperture" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="apertureChanging" id="FCam::N900::Lens::apertureChanging" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="apertureLatency" id="FCam::N900::Lens::apertureLatency" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="minApertureSpeed" id="FCam::N900::Lens::minApertureSpeed" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="maxApertureSpeed" id="FCam::N900::Lens::maxApertureSpeed" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="tagFrame" id="FCam::N900::Lens::tagFrame" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="getFocus" id="FCam::N900::Lens::getFocus" ref="class_f_cam_1_1_n900_1_1_lens.html" />
+      <keyword name="FCam::N900::Platform" id="FCam::N900::Platform" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="rawToRGBColorMatrix" id="FCam::N900::Platform::rawToRGBColorMatrix" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="manufacturer" id="FCam::N900::Platform::manufacturer" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="model" id="FCam::N900::Platform::model" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="minRawValue" id="FCam::N900::Platform::minRawValue" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="maxRawValue" id="FCam::N900::Platform::maxRawValue" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="bayerPattern" id="FCam::N900::Platform::bayerPattern" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="instance" id="FCam::N900::Platform::instance" ref="class_f_cam_1_1_n900_1_1_platform.html" />
+      <keyword name="FCam::N900::Sensor" id="FCam::N900::Sensor" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::N900::Sensor::capture" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="capture" id="FCam::N900::Sensor::capture" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::N900::Sensor::stream" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="stream" id="FCam::N900::Sensor::stream" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="streaming" id="FCam::N900::Sensor::streaming" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="stopStreaming" id="FCam::N900::Sensor::stopStreaming" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="start" id="FCam::N900::Sensor::start" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="stop" id="FCam::N900::Sensor::stop" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="maxExposure" id="FCam::N900::Sensor::maxExposure" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="minExposure" id="FCam::N900::Sensor::minExposure" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="maxFrameTime" id="FCam::N900::Sensor::maxFrameTime" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="minFrameTime" id="FCam::N900::Sensor::minFrameTime" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="maxGain" id="FCam::N900::Sensor::maxGain" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="minGain" id="FCam::N900::Sensor::minGain" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="minImageSize" id="FCam::N900::Sensor::minImageSize" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="maxImageSize" id="FCam::N900::Sensor::maxImageSize" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="maxHistogramRegions" id="FCam::N900::Sensor::maxHistogramRegions" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="rollingShutterTime" id="FCam::N900::Sensor::rollingShutterTime" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="framesPending" id="FCam::N900::Sensor::framesPending" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="shotsPending" id="FCam::N900::Sensor::shotsPending" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="platform" id="FCam::N900::Sensor::platform" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+      <keyword name="getFrame" id="FCam::N900::Sensor::getFrame" ref="class_f_cam_1_1_n900_1_1_sensor.html" />
+    </keywords>
+    <files>
+      <file>tabs.css</file>
+      <file>tab_a.png</file>
+      <file>tab_b.png</file>
+      <file>tab_h.png</file>
+      <file>tab_s.png</file>
+      <file>nav_h.png</file>
+      <file>nav_f.png</file>
+      <file>bc_s.png</file>
+      <file>doxygen.png</file>
+      <file>closed.png</file>
+      <file>open.png</file>
+      <file>doxygen.css</file>
+      <file>/search/mag_sel.png</file>
+      <file>/search/search_l.png</file>
+      <file>/search/search_m.png</file>
+      <file>/search/search_r.png</file>
+      <file>/search/close.png</file>
+      <file>search/search.css</file>
+      <file>search/search.js</file>
+      <file>main.html</file>
+      <file>fcam.png</file>
+      <file>f2.jpg</file>
+      <file>n900.jpg</file>
+      <file>pages.html</file>
+      <file>example1_8cpp_source.html</file>
+      <file>example2_8cpp_source.html</file>
+      <file>example3_8cpp_source.html</file>
+      <file>example4_8cpp_source.html</file>
+      <file>example5_8cpp_source.html</file>
+      <file>example6_8cpp_source.html</file>
+      <file>_sound_player_8cpp_source.html</file>
+      <file>_sound_player_8h_source.html</file>
+      <file>_camera_thread_8cpp_source.html</file>
+      <file>_camera_thread_8h_source.html</file>
+      <file>example7_8cpp_source.html</file>
+      <file>omapfb_8h_source.html</file>
+      <file>_overlay_widget_8cpp_source.html</file>
+      <file>_overlay_widget_8h_source.html</file>
+      <file>_action_8h_source.html</file>
+      <file>_async_file_8h_source.html</file>
+      <file>_auto_exposure_8h_source.html</file>
+      <file>_auto_focus_8h_source.html</file>
+      <file>_auto_white_balance_8h_source.html</file>
+      <file>_base_8h_source.html</file>
+      <file>_circular_buffer_8h_source.html</file>
+      <file>_device_8h_source.html</file>
+      <file>_dummy_8h_source.html</file>
+      <file>_dummy_2_frame_8h_source.html</file>
+      <file>_f2_2_frame_8h_source.html</file>
+      <file>_frame_8h_source.html</file>
+      <file>_n900_2_frame_8h_source.html</file>
+      <file>include_2_f_cam_2_dummy_2_platform_8h_source.html</file>
+      <file>include_2_f_cam_2_n900_2_platform_8h_source.html</file>
+      <file>include_2_f_cam_2_platform_8h_source.html</file>
+      <file>src_2_f2_2_platform_8h_source.html</file>
+      <file>_dummy_2_sensor_8h_source.html</file>
+      <file>_f2_2_sensor_8h_source.html</file>
+      <file>_n900_2_sensor_8h_source.html</file>
+      <file>_sensor_8h_source.html</file>
+      <file>_dummy_2_shot_8h_source.html</file>
+      <file>_f2_2_shot_8h_source.html</file>
+      <file>_shot_8h_source.html</file>
+      <file>_event_8h_source.html</file>
+      <file>_f2_8h_source.html</file>
+      <file>_e_f232_lens_database_8h_source.html</file>
+      <file>_f2_2_flash_8h_source.html</file>
+      <file>_flash_8h_source.html</file>
+      <file>_n900_2_flash_8h_source.html</file>
+      <file>_f2_2_lens_8h_source.html</file>
+      <file>_lens_8h_source.html</file>
+      <file>_n900_2_lens_8h_source.html</file>
+      <file>_shutter_button_8h_source.html</file>
+      <file>_f_cam_8h_source.html</file>
+      <file>_histogram_8h_source.html</file>
+      <file>_image_8h_source.html</file>
+      <file>_n900_8h_source.html</file>
+      <file>_color_8h_source.html</file>
+      <file>_demosaic_8h_source.html</file>
+      <file>_d_n_g_8h_source.html</file>
+      <file>_dump_8h_source.html</file>
+      <file>_j_p_e_g_8h_source.html</file>
+      <file>_sharpness_map_8h_source.html</file>
+      <file>_tag_value_8h_source.html</file>
+      <file>_time_8h_source.html</file>
+      <file>_t_s_queue_8h_source.html</file>
+      <file>_action_8cpp_source.html</file>
+      <file>_async_file_8cpp_source.html</file>
+      <file>_auto_exposure_8cpp_source.html</file>
+      <file>_auto_focus_8cpp_source.html</file>
+      <file>_auto_white_balance_8cpp_source.html</file>
+      <file>_base_8cpp_source.html</file>
+      <file>_device_8cpp_source.html</file>
+      <file>_dummy_2_daemon_8cpp_source.html</file>
+      <file>_f2_2_daemon_8cpp_source.html</file>
+      <file>_n900_2_daemon_8cpp_source.html</file>
+      <file>_dummy_2_daemon_8h_source.html</file>
+      <file>_f2_2_daemon_8h_source.html</file>
+      <file>_n900_2_daemon_8h_source.html</file>
+      <file>_dummy_2_frame_8cpp_source.html</file>
+      <file>_f2_2_frame_8cpp_source.html</file>
+      <file>_frame_8cpp_source.html</file>
+      <file>_n900_2_frame_8cpp_source.html</file>
+      <file>_dummy_2_platform_8cpp_source.html</file>
+      <file>_f2_2_platform_8cpp_source.html</file>
+      <file>_n900_2_platform_8cpp_source.html</file>
+      <file>_dummy_2_sensor_8cpp_source.html</file>
+      <file>_f2_2_sensor_8cpp_source.html</file>
+      <file>_n900_2_sensor_8cpp_source.html</file>
+      <file>_sensor_8cpp_source.html</file>
+      <file>_dummy_2_shot_8cpp_source.html</file>
+      <file>_f2_2_shot_8cpp_source.html</file>
+      <file>_shot_8cpp_source.html</file>
+      <file>_event_8cpp_source.html</file>
+      <file>_e_f232_lens_database_8cpp_source.html</file>
+      <file>_f2_2_flash_8cpp_source.html</file>
+      <file>_flash_8cpp_source.html</file>
+      <file>_n900_2_flash_8cpp_source.html</file>
+      <file>_f2_2_lens_8cpp_source.html</file>
+      <file>_lens_8cpp_source.html</file>
+      <file>_n900_2_lens_8cpp_source.html</file>
+      <file>_phidget_device_8cpp_source.html</file>
+      <file>_phidget_device_8h_source.html</file>
+      <file>_shutter_button_8cpp_source.html</file>
+      <file>_f2_2_v4_l2_sensor_8cpp_source.html</file>
+      <file>_n900_2_v4_l2_sensor_8cpp_source.html</file>
+      <file>_f2_2_v4_l2_sensor_8h_source.html</file>
+      <file>_n900_2_v4_l2_sensor_8h_source.html</file>
+      <file>_image_8cpp_source.html</file>
+      <file>_button_listener_8cpp_source.html</file>
+      <file>_button_listener_8h_source.html</file>
+      <file>_color_8cpp_source.html</file>
+      <file>_demosaic_8cpp_source.html</file>
+      <file>_demosaic___a_r_m_8cpp_source.html</file>
+      <file>_demosaic___a_r_m_8h_source.html</file>
+      <file>_d_n_g_8cpp_source.html</file>
+      <file>_dump_8cpp_source.html</file>
+      <file>_j_p_e_g_8cpp_source.html</file>
+      <file>_t_i_f_f_8cpp_source.html</file>
+      <file>_t_i_f_f_8h_source.html</file>
+      <file>_t_i_f_f_tags_8cpp_source.html</file>
+      <file>_t_i_f_f_tags_8h_source.html</file>
+      <file>_tag_value_8cpp_source.html</file>
+      <file>_time_8cpp_source.html</file>
+      <file>test_capabilities_8cpp_source.html</file>
+      <file>test_class_structure_8cpp_source.html</file>
+      <file>test_demosaic_8cpp_source.html</file>
+      <file>test_d_n_g_8cpp_source.html</file>
+      <file>test_f2_8cpp_source.html</file>
+      <file>test_f2_lens_8cpp_source.html</file>
+      <file>test_flash_latency_8cpp_source.html</file>
+      <file>test_image_8cpp_source.html</file>
+      <file>test_j_p_e_g_8cpp_source.html</file>
+      <file>test_restart_8cpp_source.html</file>
+      <file>test_stream_8cpp_source.html</file>
+      <file>test_tag_value_8cpp_source.html</file>
+      <file>test_t_s_queue_8cpp_source.html</file>
+      <file>fcam_dng_util_8cpp_source.html</file>
+      <file>fcam_vignette_8cpp_source.html</file>
+      <file>_linear_algebra_8h_source.html</file>
+      <file>example1_8cpp.html</file>
+      <file>example1_8cpp__incl.png</file>
+      <file>example2_8cpp.html</file>
+      <file>example2_8cpp__incl.png</file>
+      <file>example3_8cpp.html</file>
+      <file>example3_8cpp__incl.png</file>
+      <file>example4_8cpp.html</file>
+      <file>example4_8cpp__incl.png</file>
+      <file>example5_8cpp.html</file>
+      <file>example5_8cpp__incl.png</file>
+      <file>example6_8cpp.html</file>
+      <file>example6_8cpp__incl.png</file>
+      <file>_sound_player_8cpp.html</file>
+      <file>_sound_player_8cpp__incl.png</file>
+      <file>_sound_player_8h.html</file>
+      <file>_sound_player_8h__incl.png</file>
+      <file>_camera_thread_8cpp.html</file>
+      <file>_camera_thread_8cpp__incl.png</file>
+      <file>_camera_thread_8h.html</file>
+      <file>_camera_thread_8h__incl.png</file>
+      <file>example7_8cpp.html</file>
+      <file>example7_8cpp__incl.png</file>
+      <file>_action_8h.html</file>
+      <file>_action_8h__incl.png</file>
+      <file>_async_file_8h.html</file>
+      <file>_async_file_8h__incl.png</file>
+      <file>_auto_exposure_8h.html</file>
+      <file>_auto_exposure_8h__incl.png</file>
+      <file>_auto_focus_8h.html</file>
+      <file>_auto_focus_8h__incl.png</file>
+      <file>_auto_white_balance_8h.html</file>
+      <file>_auto_white_balance_8h__incl.png</file>
+      <file>_base_8h.html</file>
+      <file>_base_8h__incl.png</file>
+      <file>_device_8h.html</file>
+      <file>_device_8h__incl.png</file>
+      <file>_dummy_8h.html</file>
+      <file>_dummy_8h__incl.png</file>
+      <file>_f2_2_frame_8h.html</file>
+      <file>_f2_2_frame_8h__incl.png</file>
+      <file>_frame_8h.html</file>
+      <file>_frame_8h__incl.png</file>
+      <file>_n900_2_frame_8h.html</file>
+      <file>_n900_2_frame_8h__incl.png</file>
+      <file>include_2_f_cam_2_dummy_2_platform_8h.html</file>
+      <file>include_2_f_cam_2_dummy_2_platform_8h__incl.png</file>
+      <file>include_2_f_cam_2_n900_2_platform_8h.html</file>
+      <file>include_2_f_cam_2_n900_2_platform_8h__incl.png</file>
+      <file>include_2_f_cam_2_platform_8h.html</file>
+      <file>include_2_f_cam_2_platform_8h__incl.png</file>
+      <file>_dummy_2_sensor_8h.html</file>
+      <file>_dummy_2_sensor_8h__incl.png</file>
+      <file>_f2_2_sensor_8h.html</file>
+      <file>_f2_2_sensor_8h__incl.png</file>
+      <file>_n900_2_sensor_8h.html</file>
+      <file>_n900_2_sensor_8h__incl.png</file>
+      <file>_sensor_8h.html</file>
+      <file>_sensor_8h__incl.png</file>
+      <file>_dummy_2_shot_8h.html</file>
+      <file>_dummy_2_shot_8h__incl.png</file>
+      <file>_f2_2_shot_8h.html</file>
+      <file>_f2_2_shot_8h__incl.png</file>
+      <file>_shot_8h.html</file>
+      <file>_shot_8h__incl.png</file>
+      <file>_event_8h.html</file>
+      <file>_event_8h__incl.png</file>
+      <file>_f2_8h.html</file>
+      <file>_f2_8h__incl.png</file>
+      <file>_f2_2_flash_8h.html</file>
+      <file>_f2_2_flash_8h__incl.png</file>
+      <file>_flash_8h.html</file>
+      <file>_flash_8h__incl.png</file>
+      <file>_n900_2_flash_8h.html</file>
+      <file>_n900_2_flash_8h__incl.png</file>
+      <file>_f2_2_lens_8h.html</file>
+      <file>_f2_2_lens_8h__incl.png</file>
+      <file>_lens_8h.html</file>
+      <file>_lens_8h__incl.png</file>
+      <file>_n900_2_lens_8h.html</file>
+      <file>_n900_2_lens_8h__incl.png</file>
+      <file>_shutter_button_8h.html</file>
+      <file>_shutter_button_8h__incl.png</file>
+      <file>_f_cam_8h.html</file>
+      <file>_f_cam_8h__incl.png</file>
+      <file>_histogram_8h.html</file>
+      <file>_histogram_8h__incl.png</file>
+      <file>_image_8h.html</file>
+      <file>_image_8h__incl.png</file>
+      <file>_n900_8h.html</file>
+      <file>_n900_8h__incl.png</file>
+      <file>_color_8h.html</file>
+      <file>_demosaic_8h.html</file>
+      <file>_demosaic_8h__incl.png</file>
+      <file>_d_n_g_8h.html</file>
+      <file>_d_n_g_8h__incl.png</file>
+      <file>_dump_8h.html</file>
+      <file>_dump_8h__incl.png</file>
+      <file>_j_p_e_g_8h.html</file>
+      <file>_j_p_e_g_8h__incl.png</file>
+      <file>_sharpness_map_8h.html</file>
+      <file>_sharpness_map_8h__incl.png</file>
+      <file>_tag_value_8h.html</file>
+      <file>_tag_value_8h__incl.png</file>
+      <file>_time_8h.html</file>
+      <file>_time_8h__incl.png</file>
+      <file>_t_s_queue_8h.html</file>
+      <file>_t_s_queue_8h__incl.png</file>
+      <file>_phidget_device_8h.html</file>
+      <file>_phidget_device_8h__incl.png</file>
+      <file>fcam_dng_util_8cpp.html</file>
+      <file>fcam_dng_util_8cpp__incl.png</file>
+      <file>fcam_vignette_8cpp.html</file>
+      <file>fcam_vignette_8cpp__incl.png</file>
+      <file>_examples.html</file>
+      <file>todo.html</file>
+      <file>annotated.html</file>
+      <file>classes.html</file>
+      <file>hierarchy.html</file>
+      <file>functions.html</file>
+      <file>functions_0x62.html</file>
+      <file>functions_0x63.html</file>
+      <file>functions_0x64.html</file>
+      <file>functions_0x65.html</file>
+      <file>functions_0x66.html</file>
+      <file>functions_0x67.html</file>
+      <file>functions_0x68.html</file>
+      <file>functions_0x69.html</file>
+      <file>functions_0x6c.html</file>
+      <file>functions_0x6d.html</file>
+      <file>functions_0x6e.html</file>
+      <file>functions_0x6f.html</file>
+      <file>functions_0x70.html</file>
+      <file>functions_0x72.html</file>
+      <file>functions_0x73.html</file>
+      <file>functions_0x74.html</file>
+      <file>functions_0x75.html</file>
+      <file>functions_0x76.html</file>
+      <file>functions_0x77.html</file>
+      <file>functions_0x78.html</file>
+      <file>functions_0x79.html</file>
+      <file>functions_0x7a.html</file>
+      <file>functions_0x7e.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func_0x62.html</file>
+      <file>functions_func_0x63.html</file>
+      <file>functions_func_0x64.html</file>
+      <file>functions_func_0x65.html</file>
+      <file>functions_func_0x66.html</file>
+      <file>functions_func_0x67.html</file>
+      <file>functions_func_0x68.html</file>
+      <file>functions_func_0x69.html</file>
+      <file>functions_func_0x6c.html</file>
+      <file>functions_func_0x6d.html</file>
+      <file>functions_func_0x6e.html</file>
+      <file>functions_func_0x6f.html</file>
+      <file>functions_func_0x70.html</file>
+      <file>functions_func_0x72.html</file>
+      <file>functions_func_0x73.html</file>
+      <file>functions_func_0x74.html</file>
+      <file>functions_func_0x75.html</file>
+      <file>functions_func_0x76.html</file>
+      <file>functions_func_0x77.html</file>
+      <file>functions_func_0x7a.html</file>
+      <file>functions_func_0x7e.html</file>
+      <file>functions_vars.html</file>
+      <file>functions_enum.html</file>
+      <file>functions_eval.html</file>
+      <file>inherits.html</file>
+      <file>inherit__graph__0.png</file>
+      <file>inherit__graph__1.png</file>
+      <file>inherit__graph__2.png</file>
+      <file>inherit__graph__3.png</file>
+      <file>inherit__graph__4.png</file>
+      <file>inherit__graph__5.png</file>
+      <file>inherit__graph__6.png</file>
+      <file>inherit__graph__7.png</file>
+      <file>inherit__graph__8.png</file>
+      <file>inherit__graph__9.png</file>
+      <file>inherit__graph__10.png</file>
+      <file>inherit__graph__11.png</file>
+      <file>inherit__graph__12.png</file>
+      <file>inherit__graph__13.png</file>
+      <file>inherit__graph__14.png</file>
+      <file>inherit__graph__15.png</file>
+      <file>inherit__graph__16.png</file>
+      <file>inherit__graph__17.png</file>
+      <file>inherit__graph__18.png</file>
+      <file>namespaces.html</file>
+      <file>namespace_f_cam.html</file>
+      <file>class_f_cam_1_1_action.html</file>
+      <file>class_f_cam_1_1_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_action-members.html</file>
+      <file>class_f_cam_1_1_copyable_action.html</file>
+      <file>class_f_cam_1_1_copyable_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_copyable_action__coll__graph.png</file>
+      <file>class_f_cam_1_1_copyable_action-members.html</file>
+      <file>class_f_cam_1_1_async_file_writer.html</file>
+      <file>class_f_cam_1_1_async_file_writer-members.html</file>
+      <file>class_f_cam_1_1_auto_focus.html</file>
+      <file>class_f_cam_1_1_auto_focus__coll__graph.png</file>
+      <file>class_f_cam_1_1_auto_focus-members.html</file>
+      <file>struct_f_cam_1_1_size.html</file>
+      <file>struct_f_cam_1_1_size-members.html</file>
+      <file>struct_f_cam_1_1_rect.html</file>
+      <file>struct_f_cam_1_1_rect-members.html</file>
+      <file>class_f_cam_1_1_device.html</file>
+      <file>class_f_cam_1_1_device__inherit__graph.png</file>
+      <file>class_f_cam_1_1_device__coll__graph.png</file>
+      <file>class_f_cam_1_1_device-members.html</file>
+      <file>class_f_cam_1_1_event_generator.html</file>
+      <file>class_f_cam_1_1_event_generator__inherit__graph.png</file>
+      <file>class_f_cam_1_1_event.html</file>
+      <file>class_f_cam_1_1_event__coll__graph.png</file>
+      <file>class_f_cam_1_1_event-members.html</file>
+      <file>class_f_cam_1_1_flash.html</file>
+      <file>class_f_cam_1_1_flash__inherit__graph.png</file>
+      <file>class_f_cam_1_1_flash__coll__graph.png</file>
+      <file>class_f_cam_1_1_flash-members.html</file>
+      <file>class_f_cam_1_1_flash_1_1_fire_action.html</file>
+      <file>class_f_cam_1_1_flash_1_1_fire_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_flash_1_1_fire_action__coll__graph.png</file>
+      <file>class_f_cam_1_1_flash_1_1_fire_action-members.html</file>
+      <file>class_f_cam_1_1_flash_1_1_tags.html</file>
+      <file>class_f_cam_1_1_flash_1_1_tags-members.html</file>
+      <file>struct_f_cam_1_1___frame.html</file>
+      <file>struct_f_cam_1_1___frame__inherit__graph.png</file>
+      <file>struct_f_cam_1_1___frame__coll__graph.png</file>
+      <file>struct_f_cam_1_1___frame-members.html</file>
+      <file>class_f_cam_1_1_frame.html</file>
+      <file>class_f_cam_1_1_frame__inherit__graph.png</file>
+      <file>class_f_cam_1_1_frame-members.html</file>
+      <file>class_f_cam_1_1_histogram_config.html</file>
+      <file>class_f_cam_1_1_histogram_config__coll__graph.png</file>
+      <file>class_f_cam_1_1_histogram_config-members.html</file>
+      <file>class_f_cam_1_1_histogram.html</file>
+      <file>class_f_cam_1_1_histogram__coll__graph.png</file>
+      <file>class_f_cam_1_1_histogram-members.html</file>
+      <file>class_f_cam_1_1_image.html</file>
+      <file>class_f_cam_1_1_image__coll__graph.png</file>
+      <file>class_f_cam_1_1_image-members.html</file>
+      <file>class_f_cam_1_1_lens.html</file>
+      <file>class_f_cam_1_1_lens__inherit__graph.png</file>
+      <file>class_f_cam_1_1_lens__coll__graph.png</file>
+      <file>class_f_cam_1_1_lens-members.html</file>
+      <file>class_f_cam_1_1_lens_1_1_aperture_action.html</file>
+      <file>class_f_cam_1_1_lens_1_1_aperture_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_lens_1_1_aperture_action__coll__graph.png</file>
+      <file>class_f_cam_1_1_lens_1_1_aperture_action-members.html</file>
+      <file>class_f_cam_1_1_lens_1_1_focus_action.html</file>
+      <file>class_f_cam_1_1_lens_1_1_focus_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_lens_1_1_focus_action__coll__graph.png</file>
+      <file>class_f_cam_1_1_lens_1_1_focus_action-members.html</file>
+      <file>struct_f_cam_1_1_lens_1_1_tags.html</file>
+      <file>struct_f_cam_1_1_lens_1_1_tags-members.html</file>
+      <file>class_f_cam_1_1_lens_1_1_zoom_action.html</file>
+      <file>class_f_cam_1_1_lens_1_1_zoom_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_lens_1_1_zoom_action__coll__graph.png</file>
+      <file>class_f_cam_1_1_lens_1_1_zoom_action-members.html</file>
+      <file>class_f_cam_1_1_platform.html</file>
+      <file>class_f_cam_1_1_platform__inherit__graph.png</file>
+      <file>class_f_cam_1_1_platform-members.html</file>
+      <file>class_f_cam_1_1___d_n_g_frame.html</file>
+      <file>class_f_cam_1_1___d_n_g_frame__inherit__graph.png</file>
+      <file>class_f_cam_1_1___d_n_g_frame__coll__graph.png</file>
+      <file>class_f_cam_1_1___d_n_g_frame-members.html</file>
+      <file>class_f_cam_1_1_d_n_g_frame.html</file>
+      <file>class_f_cam_1_1_d_n_g_frame__inherit__graph.png</file>
+      <file>class_f_cam_1_1_d_n_g_frame__coll__graph.png</file>
+      <file>class_f_cam_1_1_d_n_g_frame-members.html</file>
+      <file>class_f_cam_1_1_sensor.html</file>
+      <file>class_f_cam_1_1_sensor__inherit__graph.png</file>
+      <file>class_f_cam_1_1_sensor__coll__graph.png</file>
+      <file>class_f_cam_1_1_sensor-members.html</file>
+      <file>class_f_cam_1_1_sharpness_map_config.html</file>
+      <file>class_f_cam_1_1_sharpness_map_config__coll__graph.png</file>
+      <file>class_f_cam_1_1_sharpness_map_config-members.html</file>
+      <file>class_f_cam_1_1_sharpness_map.html</file>
+      <file>class_f_cam_1_1_sharpness_map__coll__graph.png</file>
+      <file>class_f_cam_1_1_sharpness_map-members.html</file>
+      <file>class_f_cam_1_1_shot.html</file>
+      <file>class_f_cam_1_1_shot__inherit__graph.png</file>
+      <file>class_f_cam_1_1_shot__coll__graph.png</file>
+      <file>class_f_cam_1_1_shot-members.html</file>
+      <file>class_f_cam_1_1_tag_value.html</file>
+      <file>class_f_cam_1_1_tag_value__coll__graph.png</file>
+      <file>class_f_cam_1_1_tag_value-members.html</file>
+      <file>class_f_cam_1_1_time.html</file>
+      <file>class_f_cam_1_1_time-members.html</file>
+      <file>class_f_cam_1_1_t_s_queue.html</file>
+      <file>class_f_cam_1_1_t_s_queue-members.html</file>
+      <file>namespace_f_cam_1_1_dummy.html</file>
+      <file>class_f_cam_1_1_dummy_1_1_platform.html</file>
+      <file>class_f_cam_1_1_dummy_1_1_platform__inherit__graph.png</file>
+      <file>class_f_cam_1_1_dummy_1_1_platform__coll__graph.png</file>
+      <file>class_f_cam_1_1_dummy_1_1_platform-members.html</file>
+      <file>class_f_cam_1_1_dummy_1_1_sensor.html</file>
+      <file>class_f_cam_1_1_dummy_1_1_sensor__inherit__graph.png</file>
+      <file>class_f_cam_1_1_dummy_1_1_sensor__coll__graph.png</file>
+      <file>class_f_cam_1_1_dummy_1_1_sensor-members.html</file>
+      <file>class_f_cam_1_1_dummy_1_1_shot.html</file>
+      <file>class_f_cam_1_1_dummy_1_1_shot__inherit__graph.png</file>
+      <file>class_f_cam_1_1_dummy_1_1_shot__coll__graph.png</file>
+      <file>class_f_cam_1_1_dummy_1_1_shot-members.html</file>
+      <file>namespace_f_cam_1_1_f2.html</file>
+      <file>class_f_cam_1_1_f2_1_1_flash.html</file>
+      <file>class_f_cam_1_1_f2_1_1_flash__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_flash__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_flash-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action-members.html</file>
+      <file>struct_f_cam_1_1_f2_1_1___frame.html</file>
+      <file>struct_f_cam_1_1_f2_1_1___frame__inherit__graph.png</file>
+      <file>struct_f_cam_1_1_f2_1_1___frame__coll__graph.png</file>
+      <file>struct_f_cam_1_1_f2_1_1___frame-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_frame.html</file>
+      <file>class_f_cam_1_1_f2_1_1_frame__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_frame__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_frame-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_lens.html</file>
+      <file>class_f_cam_1_1_f2_1_1_lens__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_lens__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_lens-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_sensor.html</file>
+      <file>class_f_cam_1_1_f2_1_1_sensor__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_sensor__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_sensor-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_shot.html</file>
+      <file>class_f_cam_1_1_f2_1_1_shot__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_shot__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_shot-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_shutter_button.html</file>
+      <file>class_f_cam_1_1_f2_1_1_shutter_button__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_shutter_button__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_shutter_button-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_flash.html</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_flash__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_flash__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_flash-members.html</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_device.html</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_device__inherit__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_device__coll__graph.png</file>
+      <file>class_f_cam_1_1_f2_1_1_phidget_device-members.html</file>
+      <file>namespace_f_cam_1_1_f2_1_1_col_bin.html</file>
+      <file>namespace_f_cam_1_1_f2_1_1_col_skip.html</file>
+      <file>namespace_f_cam_1_1_f2_1_1_row_bin.html</file>
+      <file>namespace_f_cam_1_1_f2_1_1_row_skip.html</file>
+      <file>namespace_f_cam_1_1_n900.html</file>
+      <file>class_f_cam_1_1_n900_1_1_flash.html</file>
+      <file>class_f_cam_1_1_n900_1_1_flash__inherit__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_flash__coll__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_flash-members.html</file>
+      <file>class_f_cam_1_1_n900_1_1_frame.html</file>
+      <file>class_f_cam_1_1_n900_1_1_frame__inherit__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_frame__coll__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_frame-members.html</file>
+      <file>class_f_cam_1_1_n900_1_1_lens.html</file>
+      <file>class_f_cam_1_1_n900_1_1_lens__inherit__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_lens__coll__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_lens-members.html</file>
+      <file>class_f_cam_1_1_n900_1_1_platform.html</file>
+      <file>class_f_cam_1_1_n900_1_1_platform__inherit__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_platform__coll__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_platform-members.html</file>
+      <file>class_f_cam_1_1_n900_1_1_sensor.html</file>
+      <file>class_f_cam_1_1_n900_1_1_sensor__inherit__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_sensor__coll__graph.png</file>
+      <file>class_f_cam_1_1_n900_1_1_sensor-members.html</file>
+      <file>namespacemembers.html</file>
+      <file>namespacemembers_func.html</file>
+      <file>namespacemembers_vars.html</file>
+      <file>namespacemembers_type.html</file>
+      <file>namespacemembers_enum.html</file>
+      <file>namespacemembers_eval.html</file>
+      <file>graph_legend.html</file>
+      <file>files.html</file>
+      <file>globals.html</file>
+      <file>globals_defs.html</file>
+    </files>
+  </filterSection>
+</QtHelpProject>

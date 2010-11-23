@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_f_cam_1_1_f2_1_1_lens.html" title="The F2 Lens device." alt="" coords="5,237,120,267"/>
+<area shape="rect" id="node9" href="$class_f_cam_1_1_n900_1_1_lens.html" title="The Lens on the Nokia N900." alt="" coords="144,237,275,267"/>
+<area shape="rect" id="node2" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="85,83,187,112"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="59,5,213,35"/>
+</map>

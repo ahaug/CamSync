@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="563,315,624,344"/>
+<area shape="rect" id="node9" href="$_device_8h.html" title="Abstract base classes for devices." alt="" coords="747,83,816,112"/>
+<area shape="rect" id="node37" href="$_n900_2_frame_8h.html" title="The N900 Frame class." alt="" coords="612,83,681,112"/>
+<area shape="rect" id="node11" href="$_time_8h.html" title="The Time class encapsulates a wall clock time." alt="" coords="808,237,869,267"/>
+<area shape="rect" id="node18" href="$_event_8h.html" title="Events representing change of device state or error conditions." alt="" coords="771,160,835,189"/>
+<area shape="rect" id="node22" href="$_t_s_queue_8h.html" title="A basic thread&#45;safe queue using pthread mutexes to wrap a C++ STL queue." alt="" coords="269,237,355,267"/>
+<area shape="rect" id="node41" href="$include_2_f_cam_2_n900_2_platform_8h.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="509,160,589,189"/>
+<area shape="rect" id="node47" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="653,237,733,267"/>
+<area shape="rect" id="node43" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="509,237,629,267"/>
+</map>

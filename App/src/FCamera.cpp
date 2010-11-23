@@ -23,6 +23,8 @@
 
 #include "PanicHandler.h"
 
+#include "CamSync.h"
+
 CameraThread *cameraThread;
 
 // Handle Ctrl-C with a clean quit
@@ -40,6 +42,9 @@ int main(int argc, char **argv) {
     
     // Make a thread that controls the camera and maintains its state
     cameraThread = new CameraThread();
+
+    CamSync *syncThread = new CamSync();
+    syncThread->start();
    
     QMainWindow mainWindow;
     VScrollArea *scrollArea = new VScrollArea(&mainWindow);

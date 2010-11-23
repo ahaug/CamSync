@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_f_cam_1_1_flash.html" title="An abstract base class for camera flashes." alt="" coords="35,160,131,189"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="32,83,133,112"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="5,5,160,35"/>
+</map>

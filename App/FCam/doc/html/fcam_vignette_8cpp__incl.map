@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_f_cam_8h.html" title="The main include file for FCam." alt="" coords="1361,83,1468,112"/>
+<area shape="rect" id="node149" href="$_linear_algebra_8h_source.html" title="LinearAlgebra.h" alt="" coords="2493,83,2605,112"/>
+<area shape="rect" id="node5" href="$_action_8h.html" title="Abstract base classes for device actions." alt="" coords="2248,237,2317,267"/>
+<area shape="rect" id="node9" href="$_async_file_8h.html" title="AsyncFile contains classes to load and save images in the background." alt="" coords="1533,160,1624,189"/>
+<area shape="rect" id="node27" href="$_device_8h.html" title="Abstract base classes for devices." alt="" coords="2096,315,2165,344"/>
+<area shape="rect" id="node29" href="$_time_8h.html" title="The Time class encapsulates a wall clock time." alt="" coords="1811,469,1872,499"/>
+<area shape="rect" id="node35" href="$_event_8h.html" title="Events representing change of device state or error conditions." alt="" coords="1925,392,1989,421"/>
+<area shape="rect" id="node45" href="$_image_8h.html" title="FCam Image objects." alt="" coords="2165,392,2232,421"/>
+<area shape="rect" id="node58" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="1861,315,1920,344"/>
+<area shape="rect" id="node76" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="1077,315,1157,344"/>
+<area shape="rect" id="node80" href="$_n900_2_frame_8h.html" title="The N900 Frame class." alt="" coords="1088,237,1157,267"/>
+<area shape="rect" id="node88" href="$_auto_exposure_8h.html" title="Utility algorithms for metering." alt="" coords="940,160,1055,189"/>
+<area shape="rect" id="node91" href="$_auto_focus_8h.html" title="Convenience functions for performing autofocus." alt="" coords="1244,160,1340,189"/>
+<area shape="rect" id="node95" href="$_auto_white_balance_8h.html" title="Utility algorithms for white balance." alt="" coords="1079,160,1220,189"/>
+<area shape="rect" id="node100" href="$_flash_8h.html" title="The FCam interface to the camera flash." alt="" coords="2096,160,2160,189"/>
+<area shape="rect" id="node106" href="$_lens_8h.html" title="An abstract base class for lenses." alt="" coords="2184,160,2245,189"/>
+<area shape="rect" id="node111" href="$_sensor_8h.html" title="A base class for Sensors." alt="" coords="1415,160,1489,189"/>
+<area shape="rect" id="node119" href="$_d_n_g_8h.html" title="Loading and saving DNG files." alt="" coords="163,237,291,267"/>
+<area shape="rect" id="node123" href="$_demosaic_8h.html" title="Converting RAW data to RGB24 by demosiacking and gamma correcting." alt="" coords="365,237,523,267"/>
+<area shape="rect" id="node126" href="$_dump_8h.html" title="Loading and saving files as raw data dumps." alt="" coords="5,237,139,267"/>
+<area shape="rect" id="node130" href="$_j_p_e_g_8h.html" title="Loading and Saving JPEGs." alt="" coords="407,160,540,189"/>
+<area shape="rect" id="node133" href="$_n900_2_flash_8h.html" title="The LED flash on the Nokia N900." alt="" coords="801,160,865,189"/>
+<area shape="rect" id="node142" href="$_n900_2_lens_8h.html" title="The N900 Lens." alt="" coords="699,160,760,189"/>
+<area shape="rect" id="node19" href="$_frame_8h.html" title="A frame is the data returned by the sensor as a result of a FCam::Shot." alt="" coords="1668,237,1737,267"/>
+<area shape="rect" id="node25" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="1383,547,1444,576"/>
+<area shape="rect" id="node51" href="$_tag_value_8h.html" title="Class for the values a frame can be tagged with." alt="" coords="1435,315,1520,344"/>
+<area shape="rect" id="node72" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="944,469,1024,499"/>
+<area shape="rect" id="node39" href="$_t_s_queue_8h.html" title="A basic thread&#45;safe queue using pthread mutexes to wrap a C++ STL queue." alt="" coords="2021,469,2107,499"/>
+<area shape="rect" id="node61" href="$_histogram_8h.html" title="The Histogram and HistogramConfig classes." alt="" coords="1451,392,1541,421"/>
+<area shape="rect" id="node64" href="$_sharpness_map_8h.html" title="The SharpnessMap and SharpnessMapConfig classes." alt="" coords="1565,392,1685,421"/>
+<area shape="rect" id="node84" href="$include_2_f_cam_2_n900_2_platform_8h.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="777,315,857,344"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_f_cam_1_1_f2_1_1_phidget_device.html" title="A manager and base class for Phidgets based devices." alt="" coords="360,32,531,61"/>
+<area shape="rect" id="node9" href="$class_f_cam_1_1_flash.html" title="An abstract base class for camera flashes." alt="" coords="397,112,493,141"/>
+<area shape="rect" id="node15" href="$class_f_cam_1_1_lens.html" title="An abstract base class for lens devices, to establish a uniform interface to common lens functions..." alt="" coords="399,165,492,195"/>
+<area shape="rect" id="node21" href="$class_f_cam_1_1_sensor.html" title="A base class for image sensors." alt="" coords="392,299,499,328"/>
+<area shape="rect" id="node2" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="5,139,160,168"/>
+<area shape="rect" id="node7" href="$class_f_cam_1_1_f2_1_1_phidget_flash.html" title="A helper class for the F2::Flash class that handles Phidget communications." alt="" coords="580,5,743,35"/>
+<area shape="rect" id="node11" href="$class_f_cam_1_1_f2_1_1_flash.html" title="An F2 specific Flash Device for Phidgets triggered flash units." alt="" coords="601,59,721,88"/>
+<area shape="rect" id="node13" href="$class_f_cam_1_1_n900_1_1_flash.html" title="The LED flash on the Nokia N900." alt="" coords="595,112,728,141"/>
+<area shape="rect" id="node17" href="$class_f_cam_1_1_f2_1_1_lens.html" title="The F2 Lens device." alt="" coords="604,165,719,195"/>
+<area shape="rect" id="node19" href="$class_f_cam_1_1_n900_1_1_lens.html" title="The Lens on the Nokia N900." alt="" coords="596,219,727,248"/>
+<area shape="rect" id="node23" href="$class_f_cam_1_1_dummy_1_1_sensor.html" title="The Dummy simulator image sensor class." alt="" coords="583,272,740,301"/>
+<area shape="rect" id="node25" href="$class_f_cam_1_1_f2_1_1_sensor.html" title="F2::Sensor manages the Aptina MT9P031 image sensor on the F2 Frankencamera." alt="" coords="597,325,725,355"/>
+<area shape="rect" id="node27" href="$class_f_cam_1_1_n900_1_1_sensor.html" title="The N900 Image Sensor class." alt="" coords="589,379,733,408"/>
+</map>

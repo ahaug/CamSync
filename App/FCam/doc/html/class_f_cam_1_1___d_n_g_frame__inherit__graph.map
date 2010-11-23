@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_f_cam_1_1___frame.html" title="A struct containing the data that makes up a Frame." alt="" coords="28,83,137,112"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="5,5,160,35"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_platform.html" title="The abstract base class for static platform data." alt="" coords="161,83,273,112"/>
+</map>

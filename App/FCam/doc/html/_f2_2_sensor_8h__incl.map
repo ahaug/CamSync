@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$_f2_2_frame_8h.html" title="F2::Frame is a captured image with the additional parameters available on the F2 Frankencamera." alt="" coords="555,83,624,112"/>
+<area shape="rect" id="node13" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="481,160,540,189"/>
+<area shape="rect" id="node41" href="$_n900_2_frame_8h.html" title="The N900 Frame class." alt="" coords="780,83,849,112"/>
+<area shape="rect" id="node9" href="$_f2_2_shot_8h.html" title="F2::Shot collects parameters for capturing an F2::Frame, a superset of those of the base FCam::Shot..." alt="" coords="576,160,635,189"/>
+<area shape="rect" id="node15" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="695,315,756,344"/>
+<area shape="rect" id="node19" href="$_histogram_8h.html" title="The Histogram and HistogramConfig classes." alt="" coords="165,237,256,267"/>
+<area shape="rect" id="node23" href="$_sharpness_map_8h.html" title="The SharpnessMap and SharpnessMapConfig classes." alt="" coords="280,237,400,267"/>
+<area shape="rect" id="node26" href="$_image_8h.html" title="FCam Image objects." alt="" coords="525,237,592,267"/>
+<area shape="rect" id="node44" href="$include_2_f_cam_2_n900_2_platform_8h.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="840,160,920,189"/>
+<area shape="rect" id="node50" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="971,237,1051,267"/>
+<area shape="rect" id="node46" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="827,237,947,267"/>
+</map>

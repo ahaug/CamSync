@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_f_cam_1_1_frame.html" title="Data returned by the sensor as a result of a shot." alt="" coords="7,59,108,88"/>
+<area shape="rect" id="node3" href="$class_f_cam_1_1_d_n_g_frame.html" title="A DNGFrame is constructed by loadDNG, and contains all the metadata found in a DNG file..." alt="" coords="163,5,293,35"/>
+<area shape="rect" id="node5" href="$class_f_cam_1_1_f2_1_1_frame.html" title="F2::Frame is data returned by an F2::Sensor as a result of a shot." alt="" coords="165,59,291,88"/>
+<area shape="rect" id="node7" href="$class_f_cam_1_1_n900_1_1_frame.html" title="The N900 Frame class." alt="" coords="159,112,297,141"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_f_cam_1_1___frame.html" title="A struct containing the data that makes up a Frame." alt="" coords="552,132,661,161"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="207,5,361,35"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_image.html" title="A reference&#45;counted Image object." alt="" coords="235,265,333,295"/>
+<area shape="rect" id="node22" href="$class_f_cam_1_1_shot.html" title="Shot collects parameters for capturing a frame." alt="" coords="561,381,652,411"/>
+<area shape="rect" id="node8" href="$struct_f_cam_1_1_size.html" title="A class to represent sizes of two dimensional objects like images." alt="" coords="7,265,97,295"/>
+<area shape="rect" id="node14" href="$class_f_cam_1_1_sharpness_map.html" title="A sharpness map returned by the sharpness map generator." alt="" coords="208,117,360,147"/>
+<area shape="rect" id="node24" href="$class_f_cam_1_1_sharpness_map_config.html" title="The configuration of the sharpness map generator." alt="" coords="191,392,377,421"/>
+<area shape="rect" id="node10" href="$class_f_cam_1_1_histogram.html" title="A histogram returned by the histogram generator." alt="" coords="223,60,345,89"/>
+<area shape="rect" id="node12" href="$struct_f_cam_1_1_rect.html" title="A class to represent rectangles, like regions of an image." alt="" coords="7,152,97,181"/>
+<area shape="rect" id="node27" href="$class_f_cam_1_1_histogram_config.html" title="The configuration of the histogram generator." alt="" coords="204,325,364,355"/>
+<area shape="rect" id="node17" href="$class_f_cam_1_1_time.html" title="Time represents a wall clock time." alt="" coords="237,173,331,203"/>
+<area shape="rect" id="node19" href="$class_f_cam_1_1_platform.html" title="The abstract base class for static platform data." alt="" coords="551,328,663,357"/>
+</map>

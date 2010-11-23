@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="5,101,160,131"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_image.html" title="A reference&#45;counted Image object." alt="" coords="184,101,283,131"/>
+<area shape="rect" id="node6" href="$struct_f_cam_1_1_size.html" title="A class to represent sizes of two dimensional objects like images." alt="" coords="253,5,344,35"/>
+<area shape="rect" id="node12" href="$class_f_cam_1_1_sharpness_map.html" title="A sharpness map returned by the sharpness map generator." alt="" coords="307,101,459,131"/>
+<area shape="rect" id="node8" href="$class_f_cam_1_1_histogram.html" title="A histogram returned by the histogram generator." alt="" coords="483,101,605,131"/>
+<area shape="rect" id="node10" href="$struct_f_cam_1_1_rect.html" title="A class to represent rectangles, like regions of an image." alt="" coords="499,5,589,35"/>
+<area shape="rect" id="node15" href="$class_f_cam_1_1_time.html" title="Time represents a wall clock time." alt="" coords="629,101,723,131"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_f_cam_1_1_rect.html" title="A class to represent rectangles, like regions of an image." alt="" coords="5,165,96,195"/>
+<area shape="rect" id="node4" href="$class_f_cam_1_1_lens.html" title="An abstract base class for lens devices, to establish a uniform interface to common lens functions..." alt="" coords="120,165,213,195"/>
+<area shape="rect" id="node6" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="116,85,217,115"/>
+<area shape="rect" id="node8" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="89,5,244,35"/>
+</map>

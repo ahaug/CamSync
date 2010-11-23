@@ -1,0 +1,31 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$_camera_thread_8h.html" title="CameraThread.h" alt="" coords="391,83,508,112"/>
+<area shape="rect" id="node9" href="$_n900_8h.html" title="Including this file includes all the necessary components for the Nokia N900 implementation." alt="" coords="532,83,633,112"/>
+<area shape="rect" id="node118" href="$_overlay_widget_8h_source.html" title="OverlayWidget.h" alt="" coords="2559,237,2676,267"/>
+<area shape="rect" id="node11" href="$_f_cam_8h.html" title="The main include file for FCam." alt="" coords="1324,160,1391,189"/>
+<area shape="rect" id="node21" href="$_n900_2_frame_8h.html" title="The N900 Frame class." alt="" coords="1032,315,1101,344"/>
+<area shape="rect" id="node25" href="$include_2_f_cam_2_n900_2_platform_8h.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="45,392,125,421"/>
+<area shape="rect" id="node87" href="$_n900_2_flash_8h.html" title="The LED flash on the Nokia N900." alt="" coords="569,237,633,267"/>
+<area shape="rect" id="node96" href="$_n900_2_lens_8h.html" title="The N900 Lens." alt="" coords="484,237,545,267"/>
+<area shape="rect" id="node103" href="$_n900_2_sensor_8h.html" title="The N900 Image Sensor class." alt="" coords="353,237,460,267"/>
+<area shape="rect" id="node13" href="$_action_8h.html" title="Abstract base classes for device actions." alt="" coords="1647,315,1716,344"/>
+<area shape="rect" id="node17" href="$_async_file_8h.html" title="AsyncFile contains classes to load and save images in the background." alt="" coords="1281,237,1372,267"/>
+<area shape="rect" id="node29" href="$src_2_f2_2_platform_8h_source.html" title="Platform.h" alt="" coords="1027,392,1107,421"/>
+<area shape="rect" id="node31" href="$_auto_exposure_8h.html" title="Utility algorithms for metering." alt="" coords="927,237,1041,267"/>
+<area shape="rect" id="node34" href="$_auto_focus_8h.html" title="Convenience functions for performing autofocus." alt="" coords="708,237,804,267"/>
+<area shape="rect" id="node39" href="$_auto_white_balance_8h.html" title="Utility algorithms for white balance." alt="" coords="1065,237,1207,267"/>
+<area shape="rect" id="node42" href="$_device_8h.html" title="Abstract base classes for devices." alt="" coords="1497,315,1567,344"/>
+<area shape="rect" id="node44" href="$_time_8h.html" title="The Time class encapsulates a wall clock time." alt="" coords="1200,469,1261,499"/>
+<area shape="rect" id="node47" href="$_event_8h.html" title="Events representing change of device state or error conditions." alt="" coords="1199,392,1263,421"/>
+<area shape="rect" id="node51" href="$_flash_8h.html" title="The FCam interface to the camera flash." alt="" coords="1548,237,1612,267"/>
+<area shape="rect" id="node56" href="$_image_8h.html" title="FCam Image objects." alt="" coords="1828,315,1895,344"/>
+<area shape="rect" id="node60" href="$_lens_8h.html" title="An abstract base class for lenses." alt="" coords="1636,237,1697,267"/>
+<area shape="rect" id="node65" href="$_sensor_8h.html" title="A base class for Sensors." alt="" coords="828,237,903,267"/>
+<area shape="rect" id="node70" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="1772,237,1831,267"/>
+<area shape="rect" id="node75" href="$_d_n_g_8h.html" title="Loading and saving DNG files." alt="" coords="1905,237,2033,267"/>
+<area shape="rect" id="node78" href="$_demosaic_8h.html" title="Converting RAW data to RGB24 by demosiacking and gamma correcting." alt="" coords="2057,237,2215,267"/>
+<area shape="rect" id="node81" href="$_dump_8h.html" title="Loading and saving files as raw data dumps." alt="" coords="2239,237,2372,267"/>
+<area shape="rect" id="node84" href="$_j_p_e_g_8h.html" title="Loading and Saving JPEGs." alt="" coords="2396,237,2529,267"/>
+<area shape="rect" id="node27" href="$include_2_f_cam_2_platform_8h.html" title="The abstract base class for static platform data." alt="" coords="45,469,125,499"/>
+<area shape="rect" id="node124" href="$omapfb_8h_source.html" title="omapfb.h" alt="" coords="2252,315,2327,344"/>
+</map>

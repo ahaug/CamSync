@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="5,245,160,275"/>
+<area shape="rect" id="node3" href="$struct_f_cam_1_1___frame.html" title="A struct containing the data that makes up a Frame." alt="" coords="237,352,347,381"/>
+<area shape="rect" id="node9" href="$class_f_cam_1_1_device.html" title="An abstract base class for devices." alt="" coords="241,245,343,275"/>
+<area shape="rect" id="node35" href="$class_f_cam_1_1_f2_1_1_shutter_button.html" title="A simple shutter button class that generates an FCam::Event each time the Phidget based shutter butto..." alt="" coords="208,192,376,221"/>
+<area shape="rect" id="node5" href="$class_f_cam_1_1___d_n_g_frame.html" title="A _Frame struct with added custom fields to encode DNG fields and a DNG thumbnail." alt="" coords="441,405,577,435"/>
+<area shape="rect" id="node7" href="$struct_f_cam_1_1_f2_1_1___frame.html" title="A _Frame struct with added custom fields for the extra F2 capabilities." alt="" coords="444,352,575,381"/>
+<area shape="rect" id="node11" href="$class_f_cam_1_1_f2_1_1_phidget_device.html" title="A manager and base class for Phidgets based devices." alt="" coords="424,299,595,328"/>
+<area shape="rect" id="node15" href="$class_f_cam_1_1_flash.html" title="An abstract base class for camera flashes." alt="" coords="461,59,557,88"/>
+<area shape="rect" id="node21" href="$class_f_cam_1_1_lens.html" title="An abstract base class for lens devices, to establish a uniform interface to common lens functions..." alt="" coords="463,165,556,195"/>
+<area shape="rect" id="node27" href="$class_f_cam_1_1_sensor.html" title="A base class for image sensors." alt="" coords="456,245,563,275"/>
+<area shape="rect" id="node13" href="$class_f_cam_1_1_f2_1_1_phidget_flash.html" title="A helper class for the F2::Flash class that handles Phidget communications." alt="" coords="644,379,807,408"/>
+<area shape="rect" id="node17" href="$class_f_cam_1_1_f2_1_1_flash.html" title="An F2 specific Flash Device for Phidgets triggered flash units." alt="" coords="665,5,785,35"/>
+<area shape="rect" id="node19" href="$class_f_cam_1_1_n900_1_1_flash.html" title="The LED flash on the Nokia N900." alt="" coords="659,59,792,88"/>
+<area shape="rect" id="node23" href="$class_f_cam_1_1_f2_1_1_lens.html" title="The F2 Lens device." alt="" coords="668,112,783,141"/>
+<area shape="rect" id="node25" href="$class_f_cam_1_1_n900_1_1_lens.html" title="The Lens on the Nokia N900." alt="" coords="660,165,791,195"/>
+<area shape="rect" id="node29" href="$class_f_cam_1_1_dummy_1_1_sensor.html" title="The Dummy simulator image sensor class." alt="" coords="647,325,804,355"/>
+<area shape="rect" id="node31" href="$class_f_cam_1_1_f2_1_1_sensor.html" title="F2::Sensor manages the Aptina MT9P031 image sensor on the F2 Frankencamera." alt="" coords="661,219,789,248"/>
+<area shape="rect" id="node33" href="$class_f_cam_1_1_n900_1_1_sensor.html" title="The N900 Image Sensor class." alt="" coords="653,272,797,301"/>
+<area shape="rect" id="node36" href="$class_f_cam_1_1_platform.html" title="The abstract base class for static platform data." alt="" coords="236,459,348,488"/>
+<area shape="rect" id="node39" href="$class_f_cam_1_1_dummy_1_1_platform.html" title="Static platform data about the Dummy platform and its pretend image sensor." alt="" coords="427,459,592,488"/>
+<area shape="rect" id="node41" href="$class_f_cam_1_1_n900_1_1_platform.html" title="Static platform data about the N900 and its main image sensor." alt="" coords="435,512,584,541"/>
+</map>

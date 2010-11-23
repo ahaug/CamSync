@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; ApertureAction \&gt;" alt="" coords="165,5,432,35"/>
+<area shape="rect" id="node7" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; FireAction \&gt;" alt="" coords="180,59,417,88"/>
+<area shape="rect" id="node11" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; FocusAction \&gt;" alt="" coords="172,112,425,141"/>
+<area shape="rect" id="node15" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; SoundAction \&gt;" alt="" coords="172,165,425,195"/>
+<area shape="rect" id="node17" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; StrobeStartAction \&gt;" alt="" coords="157,219,440,248"/>
+<area shape="rect" id="node21" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; StrobeStopAction \&gt;" alt="" coords="157,272,440,301"/>
+<area shape="rect" id="node25" href="$class_f_cam_1_1_copyable_action.html" title="FCam::CopyableAction\&lt; ZoomAction \&gt;" alt="" coords="175,325,423,355"/>
+<area shape="rect" id="node29" href="$class_f_cam_1_1_copyable_action.html" title="For convenience, derived FCam::Action Action classes may inherit from this so they don&#39;t have to ..." alt="" coords="188,379,409,408"/>
+<area shape="rect" id="node5" href="$class_f_cam_1_1_lens_1_1_aperture_action.html" title="An Action to initiate a change in aperture during an exposure (for example, for apodization)." alt="" coords="511,5,697,35"/>
+<area shape="rect" id="node9" href="$class_f_cam_1_1_flash_1_1_fire_action.html" title="An action to fire the flash during an exposure." alt="" coords="523,59,685,88"/>
+<area shape="rect" id="node13" href="$class_f_cam_1_1_lens_1_1_focus_action.html" title="An Action to initiate a change in focus during an exposure (for example, for rubber focus)..." alt="" coords="517,112,691,141"/>
+<area shape="rect" id="node19" href="$class_f_cam_1_1_f2_1_1_flash_1_1_strobe_start_action.html" title="This action marks the beginning of a strobing sequence on a strobe enabled flash unit." alt="" coords="489,219,719,248"/>
+<area shape="rect" id="node23" href="$class_f_cam_1_1_f2_1_1_flash_1_1_strobe_stop_action.html" title="This action marks the end of a strobing sequence on a strobe enabled flash unit." alt="" coords="489,272,719,301"/>
+<area shape="rect" id="node27" href="$class_f_cam_1_1_lens_1_1_zoom_action.html" title="An Action to initiate a change in zoom during an exposure (for example, for zoom blur)." alt="" coords="519,325,689,355"/>
+</map>

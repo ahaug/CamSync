@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$_f2_2_shot_8h.html" title="F2::Shot collects parameters for capturing an F2::Frame, a superset of those of the base FCam::Shot..." alt="" coords="112,83,171,112"/>
+<area shape="rect" id="node9" href="$_shot_8h.html" title="Shot collects parameters for capturing a frame." alt="" coords="260,83,319,112"/>
+<area shape="rect" id="node11" href="$_base_8h.html" title="Basic types and namespace for FCam API." alt="" coords="48,237,109,267"/>
+<area shape="rect" id="node15" href="$_histogram_8h.html" title="The Histogram and HistogramConfig classes." alt="" coords="327,160,417,189"/>
+<area shape="rect" id="node19" href="$_sharpness_map_8h.html" title="The SharpnessMap and SharpnessMapConfig classes." alt="" coords="441,160,561,189"/>
+<area shape="rect" id="node22" href="$_image_8h.html" title="FCam Image objects." alt="" coords="185,160,252,189"/>
+</map>

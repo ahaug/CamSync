@@ -1,0 +1,70 @@
+fcam (1.1.1-1) unstable; urgency=low
+
+  * 1296x968 RAW now works (648x492 still doesn't).
+
+  * dcraw and derived libraries can now find our thumbnails
+
+  * The settings of the last shot are left as the V4L2 device state on exit now, to allow other V4L2 devices to piggyback on our settings.
+
+ -- Andrew Adams <abadams@stanford.edu>  Wed, 23 Sep 2010 18:43:00 -0700
+
+fcam (1.1.0-2) unstable; urgency=low
+
+  * Removed unneeded files from package
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Mon, 16 Aug 2010 15:20:00 -0700
+
+fcam (1.1.0-1) unstable; urgency=low
+
+  * Numerous DNG updates and fixes: Now works with dcraw, color rendition improved in general, ACR 2010 denoising works.
+
+  * Compatibility with N900 built-in camera night mode and BlessN900.
+
+  * Added memory-mapped Image support
+
+  * API break: Improved WB handling: Shots can now contain a custom WB matrix instead of just a color temperature.
+
+  * Correct date->month conversion.
+
+  * Various error checking improvements throughout the codebase.
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Mon, 16 Aug 2010 13:30:00 -0700
+
+fcam (1.0.1-2) unstable; urgency=low
+
+  * Removed libjpeg62-dev as a dependency, causes warning in package system.
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Tue, 20 Jul 2010 21:04:28 -0700
+
+fcam (1.0.1-1) unstable; urgency=low
+
+  * Fixed cyan-tinted DNG due to malformed DNG metadata.
+
+  * Added homepage link.
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Tue, 20 Jul 2010 21:04:28 -0700
+
+fcam (1.0.0-4) unstable; urgency=low
+
+  * Removed Depends: libjpeg-dev until it gets sorted out properly.
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Tue, 20 Jul 2010 21:04:28 -0700
+
+fcam (1.0.0-3) unstable; urgency=low
+
+  * Removed accidental .svn inclusion in package
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Tue, 20 Jul 2010 18:49:38 -0700
+
+fcam (1.0.0-2) unstable; urgency=low
+
+  * Fixed packaging dependencies on libjpeg.
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Tue, 20 Jul 2010 18:49:38 -0700
+
+fcam (1.0.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Eino-Ville Talvala <talvala@stanford.edu>  Tue, 20 Jul 2010 15:59:38 -0700
+

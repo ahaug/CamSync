@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$class_f_cam_1_1___d_n_g_frame.html" title="A _Frame struct with added custom fields to encode DNG fields and a DNG thumbnail." alt="" coords="5,160,141,189"/>
+<area shape="rect" id="node7" href="$struct_f_cam_1_1_f2_1_1___frame.html" title="A _Frame struct with added custom fields for the extra F2 capabilities." alt="" coords="165,160,296,189"/>
+<area shape="rect" id="node2" href="$class_f_cam_1_1_event_generator.html" title="A base class for things that generate events." alt="" coords="75,5,229,35"/>
+</map>
