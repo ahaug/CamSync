@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <iostream>
+#include <assert.h>
 
 #include "CamSync.h"
 
@@ -8,13 +9,18 @@ CamSync::CamSync(QObject *parent) : QThread(parent)
     socket.moveToThread(this);
     host = "128.114.138.51";
     port = 5080;
+    QObject::connect(this, SIGNAL(newImage(ImageItem *)),
+                     this, SLOT(send(ImageItem *)));
 }
 
 void CamSync::recv(const QString &message)
 {
-    fprintf(stderr, message.toAscii().data());
-    socket.write("picture!\n");
-    socket.flush();
+    // send a shutter pressed event to get FCamera to take a picture
+}
+
+void CamSync::send(ImageItem *imageItem)
+{
+    // copy the image's data into a buffer and send it to back to the server
 }
 
 void CamSync::run()
@@ -28,7 +34,6 @@ void CamSync::run()
     socket.connectToHost(host, port);
 
     if (!socket.waitForConnected(Timeout)) {
-        //emit error(socket.error(), socket.errorString());
         fprintf(stderr, "error connecting to server\n");
         return;
     }

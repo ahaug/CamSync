@@ -44,8 +44,8 @@ DESTDIR     = build
 # QT Configuration
 
 CONFIG += release warn_on
-QT += network thread
-CONFIG += qt
+QT += network
+CONFIG += qt thread
 QMAKE_CXXFLAGS += -mfpu=neon -mfloat-abi=softfp
 
 #-----------------------------

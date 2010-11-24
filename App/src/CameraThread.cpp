@@ -1,6 +1,4 @@
 #include "CameraThread.h"
- 
-//#include <FCam/N900.h>
 
 #include <vector>
 #include <iostream>

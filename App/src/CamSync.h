@@ -5,6 +5,8 @@
 #include <QMutex>
 #include <QtNetwork>
 
+#include "ImageItem.h"
+
 class CamSync : public QThread
 {
     Q_OBJECT
@@ -13,6 +15,9 @@ public:
     CamSync(QObject *parent = 0);
     void run();
     void recv(const QString &message);
+
+public slots:
+    void send(ImageItem *imageItem);
 
 private:
     QTcpSocket socket;
